@@ -1,0 +1,6 @@
+{
+  "name": "proOsk",
+  "description": "Menadżer szkoły nauki jazdy proOsk łączący właściciela, instruktorów i kursantów.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
