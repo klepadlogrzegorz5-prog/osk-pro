@@ -1,0 +1,1 @@
+sed -i 's/fun RoleSelectionScreen(/fun RoleSelectionScreen(\n    onRoleSelected: (UserRole) -> Unit\n) {\n    var showCreatorDialog by remember { mutableStateOf(false) }/g' app/src/main/java/com/example/ui/screens/RoleSelectionScreen.kt

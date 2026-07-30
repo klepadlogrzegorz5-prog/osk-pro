@@ -1,0 +1,1 @@
+sed -i 's/val currentRole by viewModel.currentRole.collectAsStateWithLifecycle()/val currentRole by viewModel.currentRole.collectAsStateWithLifecycle()\n    val savedPin by viewModel.savedPin.collectAsStateWithLifecycle()\n    var showPinSetupDialog by remember { mutableStateOf(false) }/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt

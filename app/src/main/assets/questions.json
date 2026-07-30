@@ -1,0 +1,4825 @@
+[
+  {
+    "id": 1,
+    "question": "Czy w tej sytuacji, zbliżając się do skrzyżowania równorzędnego, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Na skrzyżowaniu równorzędnym obowiązuje zasada prawej ręki (Art. 25 ust. 1 Prawa o ruchu drogowym) - masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony."
+  },
+  {
+    "id": 2,
+    "question": "Czy skręcając w lewo na skrzyżowaniu z sygnalizacją świetlną ogólną (zielone koło), masz pierwszeństwo przed pojazdem jadącym z przeciwka prosto?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Zielone światło ogólne na sygnalizatorze S-1 nie gwarantuje bezkolizyjnego przejazdu. Skręcając w lewo, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym z przeciwka na wprost lub skręcającym w prawo."
+  },
+  {
+    "id": 3,
+    "question": "Czy masz prawo wyprzedzić inny pojazd silnikowy bezpośrednio przed przejściem dla pieszych, na którym ruch nie jest kierowany?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Wyprzedzanie na przejściach dla pieszych lub bezpośrednio przed nimi (na których ruch nie jest kierowany sygnalizacją) jest bezwzględnie zabronione ze względów bezpieczeństwa."
+  },
+  {
+    "id": 4,
+    "question": "Czy dopuszczalna prędkość pojazdu osobowego na autostradzie w Polsce wynosi 140 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Zgodnie z polskimi przepisami, limit prędkości dla samochodów osobowych na autostradzie wynosi 140 km/h."
+  },
+  {
+    "id": 5,
+    "question": "Czy zbliżając się do przejazdu kolejowego masz obowiązek upewnić się, czy nie zbliża się pojazd szynowy, nawet gdy zapory są podniesione?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Podniesione zapory nie zwalniają kierującego z zachowania szczególnej ostrożności i upewnienia się, czy przejazd jest bezpieczny."
+  },
+  {
+    "id": 6,
+    "question": "Czy zatrzymanie pojazdu na przejściu dla pieszych w zatorze drogowym (korku) jest dozwolone?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Zabrania się wjeżdżania na skrzyżowanie lub przejście dla pieszych, jeżeli na nim lub za nim nie ma miejsca do kontynuowania jazdy, co powodowałoby zablokowanie przejścia dla pieszych."
+  },
+  {
+    "id": 7,
+    "question": "Czy pieszy wchodzący na przejście dla pieszych ma pierwszeństwo przed nadjeżdżającym pojazdem (z wyłączeniem tramwaju)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Od czerwca 2021 roku pieszy wchodzący na przejście dla pieszych (a nie tylko znajdujący się na nim) ma pierwszeństwo przed pojazdami (oprócz tramwajów)."
+  },
+  {
+    "id": 8,
+    "question": "Czy kierującemu pojazdem zabrania się korzystania podczas jazdy z telefonu wymagającego trzymania słuchawki lub mikrofonu w ręku?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Zabronione jest trzymanie telefonu w ręku podczas jazdy. Dozwolone jest korzystanie z zestawu głośnomówiącego lub słuchawkowego bezobsługowego."
+  },
+  {
+    "id": 9,
+    "question": "Czy w warunkach zmniejszonej przejrzystości powietrza (np. we mgle) masz obowiązek włączyć światła przeciwmgłowe przednie, nawet gdy mgła jest rzadka?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Włączenie świateł przeciwmgłowych przednich jest uprawnieniem kierującego, a nie bezwzględnym obowiązkiem. Obowiązkowe jest natomiast włączenie świateł mijania lub przeciwmgłowych przednich (bądź obu)."
+  },
+  {
+    "id": 10,
+    "question": "Czy na skrzyżowaniu o ruchu okrężnym (rondo) oznaczonym znakiem C-12 i A-7 masz obowiązek ustąpić pierwszeństwa pojazdom znajdującym się na rondzie?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Znak A-7 (ustąp pierwszeństwa) umieszczony przed rondem oznacza, że pierwszeństwo mają pojazdy poruszające się już po skrzyżowaniu o ruchu okrężnym."
+  },
+  {
+    "id": 11,
+    "question": "Czy masz prawo używać świateł drogowych (długich) w obszarze zabudowanym na nieoświetlonej drodze?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Możesz używać świateł drogowych od zmierzchu do świtu na nieoświetlonych drogach, również w obszarze zabudowanym, pod warunkiem że nie oślepiasz innych kierujących lub pieszych."
+  },
+  {
+    "id": 12,
+    "question": "Czy tylne światła przeciwmgłowe można włączyć tylko wtedy, gdy widoczność spadnie poniżej 50 metrów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Przepisy pozwalają na włączenie tylnych świateł przeciwmgłowych wyłącznie wtedy, gdy przejrzystość powietrza ogranicza widoczność do odległości mniejszej niż 50 m."
+  },
+  {
+    "id": 13,
+    "question": "Czy podczas holowania pojazdu na połączeniu sztywnym odległość między pojazdami może wynosić maksymalnie 3 metry?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. Przy połączeniu sztywnym odległość ta wynosi maksymalnie 3 metry (ale nie mniej niż wynika z warunków technicznych). Przy połączeniu giętkim odległość wynosi od 4 do 6 metrów."
+  },
+  {
+    "id": 14,
+    "question": "Czy kierowca ma obowiązek wozić przy sobie papierowy dokument potwierdzający zawarcie polisy OC i dowód rejestracyjny?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. W Polsce dane te są sprawdzane cyfrowo w bazie CEPiK. Kierowca z polskim prawem jazdy nie musi mieć przy sobie fizycznego dowodu rejestracyjnego i OC."
+  },
+  {
+    "id": 15,
+    "question": "Czy jazda na tzw. 'suwak' jest w Polsce obowiązkowa w przypadku zwężenia pasa ruchu przy znacznym zmniejszeniu prędkości (korku)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Jazda na suwak (naprzemienne wpuszczanie pojazdów) jest prawnie wymagana w warunkach znacznego spowolnienia ruchu na jezdniach z zanikającym pasem."
+  },
+  {
+    "id": 16,
+    "question": "Czy dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Na drodze ekspresowej dwujezdniowej limit prędkości dla samochodów osobowych wynosi 120 km/h."
+  },
+  {
+    "id": 17,
+    "question": "Czy dopuszczalne jest zatrzymanie pojazdu na drodze dla rowerów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 1,
+    "category": "B",
+    "explanation": "Nie. Zatrzymywanie pojazdu na drodze dla rowerów, pasie ruchu dla rowerów lub w śluzie rowerowej jest całkowicie zabronione."
+  },
+  {
+    "id": 18,
+    "question": "Czy sygnał zielony nadawany przez sygnalizator S-1 zezwala na wjazd na skrzyżowanie, jeśli nie ma za nim miejsca do kontynuowania jazdy?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 1,
+    "category": "B",
+    "explanation": "Nie. Zabrania się wjazdu na skrzyżowanie, jeśli z powodu zatoru nie ma miejsca do jego opuszczenia, gdyż paraliżuje to ruch w innych kierunkach."
+  },
+  {
+    "id": 19,
+    "question": "Czy w pojeździe osobowym apteczka pierwszej pomocy należy do obowiązkowego wyposażenia w Polsce?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 1,
+    "category": "B",
+    "explanation": "Nie. W Polsce apteczka nie jest obowiązkowym wyposażeniem samochodu prywatnego osobowego (choć jest wysoce zalecana). Obowiązkowe są jedynie gaśnica i trójkąt ostrzegawczy."
+  },
+  {
+    "id": 20,
+    "question": "Czy zielona strzałka przy sygnalizatorze S-2 pozwala na skręcenie w prawo bez uprzedniego całkowitego zatrzymania pojazdu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 1,
+    "category": "B",
+    "explanation": "Nie. Przed skrętem warunkowym sygnalizowanym zieloną strzałką kierujący ma bezwzględny obowiązek całkowicie zatrzymać się przed linią zatrzymania lub sygnalizatorem."
+  },
+  {
+    "id": 21,
+    "question": "Jaki odstęp od poprzedzającego pojazdu należy zachować podczas jazdy w tunelu o długości powyżej 500m poza obszarem zabudowanym, kierując autem osobowym?",
+    "isBasic": false,
+    "options": [
+      "Co najmniej 30 metrów",
+      "Co najmniej 50 metrów",
+      "Co najmniej 80 metrów"
+    ],
+    "correctAnswer": "Co najmniej 50 metrów",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zgodnie z Kodeksem drogowym, kierujący samochodem osobowym w tunelu o długości przekraczającej 500 m poza obszarem zabudowanym jest obowiązany zachować odstęp od poprzedzającego pojazdu nie mniejszy niż 50 metrów."
+  },
+  {
+    "id": 22,
+    "question": "Widzisz na drodze policjanta stojącego tyłem do Ciebie z rozpostartymi rękami. Co oznacza ten sygnał?",
+    "isBasic": false,
+    "options": [
+      "Zakaz wjazdu na skrzyżowanie (odpowiednik światła czerwonego)",
+      "Zezwolenie na wjazd dla skręcających w prawo",
+      "Nakaz natychmiastowego opuszczenia skrzyżowania"
+    ],
+    "correctAnswer": "Zakaz wjazdu na skrzyżowanie (odpowiednik światła czerwonego)",
+    "points": 3,
+    "category": "B",
+    "explanation": "Postawa policjanta, w której stoi on tyłem lub przodem do nadjeżdżających pojazdów, oznacza bezwzględny zakaz wjazdu na skrzyżowanie (odpowiednik światła czerwonego)."
+  },
+  {
+    "id": 23,
+    "question": "Z jaką maksymalną prędkością wolno jechać samochodem osobowym z przyczepą lekką na drodze ekspresowej dwujezdniowej?",
+    "isBasic": false,
+    "options": [
+      "70 km/h",
+      "80 km/h",
+      "100 km/h"
+    ],
+    "correctAnswer": "80 km/h",
+    "points": 3,
+    "category": "B",
+    "explanation": "Pojazd osobowy z przyczepą na drogach ekspresowych i autostradach obowiązuje obniżony limit prędkości wynoszący maksymalnie 80 km/h."
+  },
+  {
+    "id": 24,
+    "question": "Kiedy wolno wyprzedzać pojazd uprzywilejowany (np. karetkę pogotowia na sygnale)?",
+    "isBasic": false,
+    "options": [
+      "Zabrania się wyprzedzania w obszarze zabudowanym",
+      "Można wyprzedzać wszędzie bez ograniczeń",
+      "Zabrania się wyprzedzania tylko na drogach jednokierunkowych"
+    ],
+    "correctAnswer": "Zabrania się wyprzedzania w obszarze zabudowanym",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się wyprzedzania pojazdu uprzywilejowanego na obszarze zabudowanym. Poza obszarem zabudowanym wyprzedzanie takiego pojazdu jest dozwolone."
+  },
+  {
+    "id": 25,
+    "question": "W jakiej odległości od przejazdu kolejowego wolno zatrzymać pojazd, aby nie naruszyć zakazu zatrzymywania?",
+    "isBasic": false,
+    "options": [
+      "W odległości mniejszej niż 5 m",
+      "W odległości mniejszej niż 10 m",
+      "W odległości mniejszej niż 15 m"
+    ],
+    "correctAnswer": "W odległości mniejszej niż 10 m",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się zatrzymywania pojazdu na przejeździe kolejowym, tramwajowym, skrzyżowaniu oraz w odległości mniejszej niż 10 m od przejazdu lub skrzyżowania."
+  },
+  {
+    "id": 26,
+    "question": "Kierujesz pojazdem i zamierzasz skręcić na skrzyżowaniu. Kiedy musisz włączyć kierunkowskaz?",
+    "isBasic": false,
+    "options": [
+      "W trakcie wykonywania manewru skrętu",
+      "Zawczasu i wyraźnie przed rozpoczęciem manewru",
+      "Dopiero po upewnieniu się, że nikt za Tobą nie jedzie"
+    ],
+    "correctAnswer": "Zawczasu i wyraźnie przed rozpoczęciem manewru",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierunkowskaz należy włączyć zawczasu i wyraźnie, tak aby inni uczestnicy ruchu drogowego mieli czas zorientować się w Twoich zamiarach jeszcze przed podjęciem manewru."
+  },
+  {
+    "id": 27,
+    "question": "Przejeżdżasz obok przystanku autobusowego z zatoką w obszarze zabudowanym. Kierowca autobusu sygnalizuje kierunkowskazem zamiar wyjechania z zatoki. Jaki masz obowiązek?",
+    "isBasic": false,
+    "options": [
+      "Masz pierwszeństwo i nie musisz reagować",
+      "Masz obowiązek zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić mu włączenie się do ruchu",
+      "Masz obowiązek użyć sygnału dźwiękowego i przyspieszyć"
+    ],
+    "correctAnswer": "Masz obowiązek zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić mu włączenie się do ruchu",
+    "points": 2,
+    "category": "B",
+    "explanation": "W obszarze zabudowanym kierujący pojazdem jest obowiązany zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić kierującemu autobusem wyjazd z zatoki (Art. 18 ust. 1)."
+  },
+  {
+    "id": 28,
+    "question": "Jaki jest dopuszczalny limit stężenia alkoholu we krwi kierowcy w Polsce, powyżej którego jazda staje się wykroczeniem (stan po użyciu alkoholu)?",
+    "isBasic": false,
+    "options": [
+      "0,1 promila (0,05 mg/dm3)",
+      "0,2 promila (0,1 mg/dm3)",
+      "0,5 promila (0,25 mg/dm3)"
+    ],
+    "correctAnswer": "0,2 promila (0,1 mg/dm3)",
+    "points": 2,
+    "category": "B",
+    "explanation": "Stan po użyciu alkoholu zachodzi, gdy zawartość alkoholu w organizmie wynosi lub prowadzi do stężenia we krwi od 0,2 do 0,5 promila (lub od 0,1 mg do 0,25 mg w 1 dm3 wydychanego powietrza). Od 0,5 promila jest to już przestępstwo."
+  },
+  {
+    "id": 29,
+    "question": "Na jakiej drodze wolno przewozić dziecko w foteliku ochronnym na przednim siedzeniu tyłem do kierunku jazdy?",
+    "isBasic": false,
+    "options": [
+      "Tylko przy wyłączonej poduszce powietrznej pasażera",
+      "Tylko na drogach ekspresowych i autostradach",
+      "Jest to całkowicie zabronione na każdym siedzeniu przednim"
+    ],
+    "correctAnswer": "Tylko przy wyłączonej poduszce powietrznej pasażera",
+    "points": 2,
+    "category": "B",
+    "explanation": "Przewożenie dziecka w foteliku tyłem do kierunku jazdy na przednim siedzeniu pasażera jest dozwolone pod warunkiem bezwzględnego dezaktywowania czołowej poduszki powietrznej pasażera."
+  },
+  {
+    "id": 30,
+    "question": "Zauważasz, że wskaźnik temperatury cieczy chłodzącej na desce rozdzielczej wchodzi na czerwone pole. Co powinieneś zrobić?",
+    "isBasic": false,
+    "options": [
+      "Zignorować i jechać dalej, dopóki silnik działa płynnie",
+      "Zatrzymać pojazd w bezpiecznym miejscu, wyłączyć silnik i pozwolić mu ostygnąć przed sprawdzeniem poziomu płynu",
+      "Od razu odkręcić korek zbiornika wyrównawczego przy gorącym silniku"
+    ],
+    "correctAnswer": "Zatrzymać pojazd w bezpiecznym miejscu, wyłączyć silnik i pozwolić mu ostygnąć przed sprawdzeniem poziomu płynu",
+    "points": 2,
+    "category": "B",
+    "explanation": "Przegrzanie silnika może doprowadzić do jego zatarcia. Należy zatrzymać się, zgasić silnik i poczekać aż ostygnie. Odkręcanie korka na gorącym silniku grozi ciężkim oparzeniem przez pryskający gorący płyn."
+  },
+  {
+    "id": 31,
+    "question": "Jaki dokument potwierdza uprawnienia do kierowania pojazdami w Polsce?",
+    "isBasic": false,
+    "options": [
+      "Karta rowerowa",
+      "Dowód osobisty",
+      "Krajowe prawo jazdy odpowiedniej kategorii"
+    ],
+    "correctAnswer": "Krajowe prawo jazdy odpowiedniej kategorii",
+    "points": 1,
+    "category": "B",
+    "explanation": "Dokumentem stwierdzającym uprawnienie do kierowania pojazdem silnikowym jest krajowe prawo jazdy określonej kategorii."
+  },
+  {
+    "id": 32,
+    "question": "Gdzie znajduje się zbiornik płynu hamulcowego w większości samochodów osobowych?",
+    "isBasic": false,
+    "options": [
+      "W bagażniku pod kołem zapasowym",
+      "Pod maską silnika, zazwyczaj po stronie kierowcy na serwie hamulcowym",
+      "Wewnątrz kabiny za schowkiem pasażera"
+    ],
+    "correctAnswer": "Pod maską silnika, zazwyczaj po stronie kierowcy na serwie hamulcowym",
+    "points": 1,
+    "category": "B",
+    "explanation": "Zbiornik wyrównawczy płynu hamulcowego umieszczony jest pod maską w komorze silnika, nad pompą hamulcową (serwem), zwykle bliżej podszybia po stronie kierowcy."
+  },
+  {
+    "id": 33,
+    "question": "Czy wolno Ci cofać na autostradzie?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Cofanie na autostradzie oraz drodze ekspresowej jest bezwzględnie zabronione (Art. 49 ust. 3 Prawa o ruchu drogowym)."
+  },
+  {
+    "id": 34,
+    "question": "Czy na skrzyżowaniu o ruchu okrężnym (rondo) bez znaków określających pierwszeństwo (np. brak znaku A-7) pierwszeństwo ma pojazd znajdujący się na skrzyżowaniu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Jeśli przed rondem nie ma znaku A-7 (ustąp pierwszeństwa), rondo traktuje się jak skrzyżowanie równorzędne. Pierwszeństwo ma pojazd nadjeżdżający z prawej strony, czyli wjeżdżający na rondo."
+  },
+  {
+    "id": 35,
+    "question": "Czy kierujący pojazdem ma obowiązek zachować szczególną ostrożność podczas cofania?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Podczas wykonywania manewru cofania kierujący jest zobowiązany do zachowania szczególnej ostrożności oraz upewnienia się, czy za pojazdem nie znajduje się przeszkoda lub inny uczestnik ruchu."
+  },
+  {
+    "id": 36,
+    "question": "Czy dopuszczalna prędkość pojazdu w strefie zamieszkania wynosi 30 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Dopuszczalna prędkość pojazdu w strefie zamieszkania wynosi 20 km/h. Pieszy ma tam pierwszeństwo przed pojazdami i może korzystać z całej szerokości drogi."
+  },
+  {
+    "id": 37,
+    "question": "Czy masz prawo wyprzedzać inny pojazd z prawej strony na jezdni jednokierunkowej z wyznaczonymi pasami ruchu w obszarze zabudowanym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Wyprzedzanie z prawej strony na drodze jednokierunkowej z wyznaczonymi pasami ruchu jest dozwolone zarówno w obszarze zabudowanym, jak i poza nim."
+  },
+  {
+    "id": 38,
+    "question": "Czy podczas jazdy w tunelu masz obowiązek używać świateł mijania zamiast świateł do jazdy dziennej?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. W tunelu kierujący pojazdem jest zobowiązany używać świateł mijania. Światła do jazdy dziennej nie są wystarczające."
+  },
+  {
+    "id": 39,
+    "question": "Czy wolno Ci zatrzymać pojazd na autostradzie w innym miejscu niż wyznaczone do tego celu parkingi (MOP) lub pas awaryjny (w razie awarii)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Na autostradzie zabrania się zatrzymania lub postoju pojazdu w innych miejscach niż wyznaczone w tym celu. W razie awarii należy zjechać na pas awaryjny i odpowiednio go oznakować."
+  },
+  {
+    "id": 40,
+    "question": "Czy dozwolone jest przewożenie dziecka o wzroście powyżej 135 cm na tylnym siedzeniu samochodu bez fotelika ochronnego, jeśli ze względu na masę i wzrost dziecka nie jest możliwe zakupienie odpowiedniego fotelika?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Prawo dopuszcza przewożenie dziecka o wzroście co najmniej 135 cm na tylnym siedzeniu bez fotelika, pod warunkiem zabezpieczenia go pasami bezpieczeństwa, jeśli nie ma możliwości zapewnienia odpowiedniego fotelika ze względu na masę i wzrost."
+  },
+  {
+    "id": 41,
+    "question": "Czy kierujący pojazdem, widząc pieszego o widocznej ograniczonej sprawności ruchowej przechodzącego przez jezdnię poza przejściem dla pieszych, ma obowiązek zatrzymać pojazd w celu umożliwienia mu przejścia?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Zgodnie z przepisami, kierujący pojazdem ma obowiązek umożliwić przejście przez jezdnię osobie o widocznej ograniczonej sprawności ruchowej lub osobie korzystającej z wózka inwalidzkiego, niezależnie od tego, czy przechodzi ona na przejściu, czy poza nim."
+  },
+  {
+    "id": 42,
+    "question": "Czy dopuszczalna prędkość samochodu osobowego w obszarze zabudowanym w godzinach 23:00 - 5:00 wynosi 60 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Prędkość dopuszczalna w obszarze zabudowanym wynosi 50 km/h przez całą dobę, chyba że znaki drogowe stanowią inaczej."
+  },
+  {
+    "id": 43,
+    "question": "Czy na skrzyżowaniu oznaczonym znakiem 'ustąp pierwszeństwa' masz obowiązek zatrzymać pojazd przy braku innych uczestników ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. Znak 'ustąp pierwszeństwa' (A-7) nie nakłada obowiązku zatrzymania się, jeśli droga z pierwszeństwem jest wolna. Obowiązek zatrzymania nakłada natomiast znak 'STOP' (B-20)."
+  },
+  {
+    "id": 44,
+    "question": "Czy w pojeździe osobowym dopuszcza się ciągnięcie przyczepy o dopuszczalnej masie całkowitej (DMC) przekraczającej masę własną pojazdu ciągnącego?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. Rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy nie może przekraczać rzeczywistej masy całkowitej pojazdu ciągnącego."
+  },
+  {
+    "id": 45,
+    "question": "Czy pieszy poruszający się po drodze poza obszarem zabudowanym od zmierzchu do świtu ma obowiązek używać elementów odblaskowych w sposób widoczny dla innych uczestników ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Pieszy poruszający się po drodze po zmierzchu poza obszarem zabudowanym ma obowiązek używania elementów odblaskowych, chyba że porusza się po drodze przeznaczonej wyłącznie dla pieszych lub po chodniku."
+  },
+  {
+    "id": 46,
+    "question": "Czy podczas omijania pojazdu oczekującego przed przejazdem kolejowym masz prawo wjechać na pas ruchu dla przeciwnego kierunku?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Zabrania się omijania pojazdu oczekującego na otwarcie ruchu przed przejazdem kolejowym (lub tramwajowym), jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu."
+  },
+  {
+    "id": 47,
+    "question": "Czy kierującemu pojazdem wolno wyprzedzać na skrzyżowaniu o ruchu okrężnym (rondzie)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Na skrzyżowaniu o ruchu okrężnym wyprzedzanie innych pojazdów jest dozwolone, w przeciwieństwie do klasycznych skrzyżowań bez sygnalizacji świetlnej."
+  },
+  {
+    "id": 48,
+    "question": "Czy dopuszczalna wysokość pojazdu osobowego wraz z ładunkiem umieszczonym na dachu może przekraczać 4 metry bez specjalnego zezwolenia?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 1,
+    "category": "B",
+    "explanation": "Nie. Zgodnie z polskimi przepisami, wysokość pojazdu wraz z ładunkiem nie może przekraczać 4 metrów."
+  },
+  {
+    "id": 49,
+    "question": "Zbliżasz się do przejścia dla pieszych. Na sąsiednim pasie ruchu, jadącym w tym samym kierunku, inny pojazd jedzie z mniejszą prędkością i nagle zatrzymuje się przed przejściem. Jak powinieneś postąpić?",
+    "isBasic": false,
+    "options": [
+      "Ominąć go bez zmiany prędkości, ponieważ pieszy nie wszedł jeszcze na Twój pas",
+      "Zatrzymać się, ponieważ omijanie pojazdu, który zatrzymał się w celu ustąpienia pierwszeństwa pieszemu, jest zabronione",
+      "Przyspieszyć, aby jak najszybciej zwolnić przejście dla pieszych"
+    ],
+    "correctAnswer": "Zatrzymać się, ponieważ omijanie pojazdu, który zatrzymał się w celu ustąpienia pierwszeństwa pieszemu, jest zabronione",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się omijania pojazdu, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszemu (Art. 26 ust. 3 pkt 2)."
+  },
+  {
+    "id": 50,
+    "question": "Jaki jest minimalny dopuszczalny bieżnik opon letnich w samochodzie osobowym w Polsce, jeśli producent opony nie wskazał innego wskaźnika zużycia (TWI)?",
+    "isBasic": false,
+    "options": [
+      "1,0 mm",
+      "1,6 mm",
+      "2,5 mm"
+    ],
+    "correctAnswer": "1,6 mm",
+    "points": 2,
+    "category": "B",
+    "explanation": "Minimalna dopuszczalna wysokość bieżnika opony w Polsce wynosi 1,6 mm. Poniżej tej wartości opona traci swoje właściwości odprowadzania wody i pojazd nie przejdzie badania technicznego."
+  },
+  {
+    "id": 51,
+    "question": "Jak należy postąpić w przypadku wystąpienia zjawiska aquaplaningu (poślizgu wodnego)?",
+    "isBasic": false,
+    "options": [
+      "Gwałtownie nacisnąć hamulec i mocno skręcić kierownicę w stronę pobocza",
+      "Trzymać kierownicę prosto, nie wykonywać gwałtownych ruchów kierownicą i płynnie ująć gazu bez gwałtownego hamowania",
+      "Mocno dodać gazu, aby koła jak najszybciej przebiły warstwę wody"
+    ],
+    "correctAnswer": "Trzymać kierownicę prosto, nie wykonywać gwałtownych ruchów kierownicą i płynnie ująć gazu bez gwałtownego hamowania",
+    "points": 3,
+    "category": "B",
+    "explanation": "Przy aquaplaningu koła tracą kontakt z asfaltem, unosząc się na poduszce wodnej. Gwałtowne hamowanie lub skręcanie kół może doprowadzić do utraty panowania nad autem, gdy opony odzyskają przyczepność. Należy zdjąć nogę z gazu i trzymać kierownicę stabilnie."
+  },
+  {
+    "id": 52,
+    "question": "Co oznacza żółta linia ciągła namalowana przy krawędzi jezdni lub krawężniku (znak P-21)?",
+    "isBasic": false,
+    "options": [
+      "Zakaz postoju",
+      "Zakaz zatrzymywania się i postoju",
+      "Wyznaczenie pasa ruchu dla pojazdów komunikacji publicznej"
+    ],
+    "correctAnswer": "Zakaz zatrzymywania się i postoju",
+    "points": 2,
+    "category": "B",
+    "explanation": "Żółta linia ciągła na krawędzi jezdni oznacza zakaz zatrzymywania się i postoju w tym miejscu (odpowiednik znaku pionowego B-36)."
+  },
+  {
+    "id": 53,
+    "question": "Jakie dokumenty ma obowiązek posiadać obcokrajowiec kierujący zarejestrowanym w Polsce samochodem osobowym podczas kontroli drogowej?",
+    "isBasic": false,
+    "options": [
+      "Dowód rejestracyjny i polisę OC w wersji papierowej",
+      "Prawo jazdy (krajowe lub międzynarodowe, jeśli wymagane)",
+      "Zaświadczenie o zameldowaniu na terenie RP"
+    ],
+    "correctAnswer": "Prawo jazdy (krajowe lub międzynarodowe, jeśli wymagane)",
+    "points": 2,
+    "category": "B",
+    "explanation": "Wszyscy kierujący pojazdami w Polsce muszą okazać ważne prawo jazdy. Dane o dowodzie rejestracyjnym i ubezpieczeniu OC pojazdów zarejestrowanych w Polsce są sprawdzane w bazie CEPiK elektronicznie, więc papierowe wersje nie są wymagane."
+  },
+  {
+    "id": 54,
+    "question": "W jakiej odległości za pojazdem należy umieścić ostrzegawczy trójkąt odblaskowy w razie awarii na autostradzie lub drodze ekspresowej?",
+    "isBasic": false,
+    "options": [
+      "30-50 metrów za pojazdem",
+      "Dokładnie 100 metrów za pojazdem",
+      "Bezpośrednio na dachu pojazdu lub 10 metrów za nim"
+    ],
+    "correctAnswer": "Dokładnie 100 metrów za pojazdem",
+    "points": 3,
+    "category": "B",
+    "explanation": "Na autostradzie lub drodze ekspresowej trójkąt ostrzegawczy należy umieścić w odległości 100 m za pojazdem (Art. 50 ust. 1 pkt 1 Prawa o ruchu drogowym)."
+  },
+  {
+    "id": 55,
+    "question": "W jaki sposób należy zasygnalizować uszkodzenie pojazdu i postój na drodze poza obszarem zabudowanym (inną niż autostrada i droga ekspresowa)?",
+    "isBasic": false,
+    "options": [
+      "Umieścić trójkąt ostrzegawczy w odległości 30-50 metrów za pojazdem i włączyć światła awaryjne",
+      "Umieścić trójkąt bezpośrednio za autem na jezdni",
+      "Zostawić włączone tylko światła pozycyjne bez trójkąta"
+    ],
+    "correctAnswer": "Umieścić trójkąt ostrzegawczy w odległości 30-50 metrów za pojazdem i włączyć światła awaryjne",
+    "points": 3,
+    "category": "B",
+    "explanation": "Poza obszarem zabudowanym na zwykłej drodze postój z powodu uszkodzenia pojazdu sygnalizuje się włączeniem świateł awaryjnych oraz umieszczeniem trójkąta ostrzegawczego w odległości 30-50 metrów za pojazdem."
+  },
+  {
+    "id": 56,
+    "question": "Jakie światła powinien włączyć kierujący pojazdem holującym w warunkach dobrej widoczności?",
+    "isBasic": false,
+    "options": [
+      "Światła awaryjne",
+      "Światła mijania",
+      "Światła drogowe lub przeciwmgłowe"
+    ],
+    "correctAnswer": "Światła mijania",
+    "points": 2,
+    "category": "B",
+    "explanation": "Pojazd holujący musi mieć włączone światła mijania. Nie może używać świateł do jazdy dziennej. Zabronione jest też jeżdżenie z włączonymi światłami awaryjnymi w pojeździe holującym lub holowanym podczas jazdy."
+  },
+  {
+    "id": 57,
+    "question": "Jaka jest maksymalna dopuszczalna prędkość samochodu osobowego na drodze dwujezdniowej poza obszarem zabudowanym (niebędącej autostradą ani drogą ekspresową)?",
+    "isBasic": false,
+    "options": [
+      "90 km/h",
+      "100 km/h",
+      "110 km/h"
+    ],
+    "correctAnswer": "100 km/h",
+    "points": 2,
+    "category": "B",
+    "explanation": "Na zwykłej drodze dwujezdniowej o co najmniej dwóch pasach ruchu dla każdego kierunku, znajdującej się poza obszarem zabudowanym, limit prędkości wynosi 100 km/h."
+  },
+  {
+    "id": 58,
+    "question": "Co należy zrobić jako pierwsze po zabezpieczeniu miejsca wypadku drogowego, w którym są ranni?",
+    "isBasic": false,
+    "options": [
+      "Zadzwonić po lawetę",
+      "Wezwać służby ratownicze (numer 112) oraz ocenić stan poszkodowanych i udzielić im pierwszej pomocy",
+      "Zrobić zdjęcia uszkodzeń pojazdów do ubezpieczenia"
+    ],
+    "correctAnswer": "Wezwać służby ratownicze (numer 112) oraz ocenić stan poszkodowanych i udzielić im pierwszej pomocy",
+    "points": 3,
+    "category": "B",
+    "explanation": "Bezpieczeństwo i ratowanie życia ludzkiego jest najwyższym priorytetem. Po zabezpieczeniu miejsca zdarzenia należy bezzwłocznie wezwać pomoc (112) i przystąpić do udzielania pierwszej pomocy poszkodowanym."
+  },
+  {
+    "id": 59,
+    "question": "Kiedy dopuszczalne jest wyprzedzanie pojazdu z prawej strony na drodze dwujezdniowej poza obszarem zabudowanym?",
+    "isBasic": false,
+    "options": [
+      "Tylko wtedy, gdy wyprzedzany pojazd jedzie z prędkością poniżej 30 km/h",
+      "Gdy jezdnia ma co najmniej trzy pasy ruchu wyznaczone do jazdy w tym samym kierunku",
+      "Jest to całkowicie zabronione poza obszarem zabudowanym"
+    ],
+    "correctAnswer": "Gdy jezdnia ma co najmniej trzy pasy ruchu wyznaczone do jazdy w tym samym kierunku",
+    "points": 2,
+    "category": "B",
+    "explanation": "Wyprzedzanie z prawej strony na drodze dwujezdniowej poza obszarem zabudowanym jest dozwolone, jeśli wyznaczonych jest co najmniej 3 pasy ruchu w tym samym kierunku (na autostradzie/ekspresówce również). W obszarze zabudowanym wystarczą 2 pasy."
+  },
+  {
+    "id": 60,
+    "question": "Czy kierujący pojazdem silnikowym może używać świateł przeciwmgłowych przednich w czasie jazdy na drodze krętej oznaczonej odpowiednimi znakami w warunkach normalnej przejrzystości powietrza od zmierzchu do świtu?",
+    "isBasic": false,
+    "options": [
+      "Nie, jest to dozwolone tylko we mgle",
+      "Tak, jeśli droga jest oznaczona odpowiednimi znakami (droga kręta)",
+      "Tylko w okresie zimowym"
+    ],
+    "correctAnswer": "Tak, jeśli droga jest oznaczona odpowiednimi znakami (droga kręta)",
+    "points": 1,
+    "category": "B",
+    "explanation": "Na drodze krętej, oznaczonej odpowiednimi znakami drogowymi (odpowiednia tabliczka pod znakiem ostrzegawczym), kierujący może używać przednich świateł przeciwmgłowych również przy dobrej widoczności od zmierzchu do świtu."
+  },
+  {
+    "id": 61,
+    "question": "Czy wolno Ci zawracać w tunelu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się zawracania w tunelach, na moście, wiadukcie oraz drodze jednokierunkowej."
+  },
+  {
+    "id": 62,
+    "question": "Czy kierujący pojazdem ma obowiązek zachować szczególną ostrożność zbliżając się do przejazdu dla rowerzystów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub UTO znajdującemu się na przejeździe."
+  },
+  {
+    "id": 63,
+    "question": "Czy na drodze ekspresowej jednojezdniowej dopuszczalna prędkość samochodu osobowego wynosi 100 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Na drodze ekspresowej jednojezdniowej limit prędkości dla samochodów osobowych wynosi 100 km/h."
+  },
+  {
+    "id": 64,
+    "question": "Czy dozwolona jest jazda na motocyklu bez kasku ochronnego, jeśli motocykl posiada fabryczne pasy bezpieczeństwa?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Przepis o obowiązku używania kasku ochronnego nie dotyczy osób przewożonych motocyklami wyposażonymi w fabryczne pasy bezpieczeństwa."
+  },
+  {
+    "id": 65,
+    "question": "Czy kierującemu pojazdem wolno używać sygnału dźwiękowego w obszarze zabudowanym zawsze, gdy chce ostrzec pasażera o przyjeździe?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Sygnału dźwiękowego wolno używać tylko w celu ostrzeżenia o bezpośrednim niebezpieczeństwie. Nadużywanie klaksonu w obszarze zabudowanym jest zabronione."
+  },
+  {
+    "id": 66,
+    "question": "Czy zielone światło na sygnalizatorze bezkierunkowym S-1 pozwala na wjazd na skrzyżowanie, jeśli zator drogowy uniemożliwi jego opuszczenie?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się wjazdu na skrzyżowanie, jeżeli na skrzyżowaniu lub za nim nie ma miejsca do kontynuowania jazdy."
+  },
+  {
+    "id": 67,
+    "question": "Czy pieszy przechodzący przez jezdnię ma prawo korzystać z telefonu komórkowego w sposób, który ogranicza mu obserwację drogi?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się pieszemu korzystania z telefonu lub innego urządzenia elektronicznego podczas wchodzenia lub przechodzenia przez jezdnię w sposób ograniczający obserwację sytuacji."
+  },
+  {
+    "id": 68,
+    "question": "Czy kierujący pojazdem ma obowiązek ustąpić pierwszeństwa pieszemu przechodzącemu przez drogę poprzeczną, na którą ten kierujący skręca?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany ustąpić pierwszeństwa pieszemu przechodzącemu na skrzyżowaniu przez jezdnię drogi, na którą wjeżdża."
+  },
+  {
+    "id": 69,
+    "question": "Czy wolno wyprzedzać pojazd uprzywilejowany na obszarze zabudowanym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się wyprzedzania pojazdu uprzywilejowanego na obszarze zabudowanym."
+  },
+  {
+    "id": 70,
+    "question": "Czy dopuszczalna prędkość pojazdu w strefie ruchu wynosi zawsze 20 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "W strefie ruchu obowiązują przepisy ogólne ruchu drogowego (w tym standardowy limit 50 km/h w obszarze zabudowanym, chyba że znaki stanowią inaczej)."
+  },
+  {
+    "id": 71,
+    "question": "Czy kierującemu pojazdem wolno holować inny pojazd na autostradzie?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Holowanie na autostradzie jest zabronione, z wyjątkiem holowania przez pojazdy przeznaczone do tego celu do najbliższego wyjazdu lub MOP."
+  },
+  {
+    "id": 72,
+    "question": "Czy kierujący pojazdem silnikowym ma obowiązek używać świateł mijania lub świateł do jazdy dziennej podczas jazdy w warunkach normalnej przejrzystości powietrza od świtu do zmierzchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy, przy czym od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza może używać świateł do jazdy dziennej."
+  },
+  {
+    "id": 73,
+    "question": "Czy wolno wyprzedzać na skrzyżowaniu o ruchu okrężnym (rondzie)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Na skrzyżowaniu o ruchu okrężnym wyprzedzanie innych pojazdów jest dozwolone."
+  },
+  {
+    "id": 74,
+    "question": "Czy zabrania się wyprzedzania pojazdu silnikowego na zakręcie oznaczonym znakami ostrzegawczymi, jeżeli pasy ruchu nie są wyznaczone?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się wyprzedzania pojazdu silnikowego na zakrętach oznaczonych znakami ostrzegawczymi, chyba że pasy ruchu są wyznaczone."
+  },
+  {
+    "id": 75,
+    "question": "Czy na drodze dwukierunkowej poza obszarem zabudowanym wolno zatrzymać pojazd na lewym poboczu w warunkach dobrej widoczności?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Zatrzymanie pojazdu na jezdni lub poboczu po lewej stronie drogi dwukierunkowej jest dozwolone wyłącznie w obszarze zabudowanym."
+  },
+  {
+    "id": 76,
+    "question": "Czy kierujący ma obowiązek upewnić się o możliwości bezpiecznego wyprzedzania przed przystąpieniem do tego manewru?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Przed wyprzedzaniem należy upewnić się, czy mamy odpowiednią widoczność, wolne miejsce z przodu oraz czy kierujący za nami nie zaczął wyprzedzania."
+  },
+  {
+    "id": 77,
+    "question": "Czy kierujący pojazdem może korzystać z telefonu trzymanego w dłoni podczas postoju na czerwonym świetle?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zatrzymanie przed sygnalizatorem na czerwonym świetle nie wyłącza pojazdu z ruchu. Nadal trwa jazda, więc trzymanie telefonu w ręku jest wykroczeniem."
+  },
+  {
+    "id": 78,
+    "question": "Czy na skrzyżowaniu oznaczonym znakiem B-20 (STOP) kierujący ma obowiązek bezwzględnego zatrzymania pojazdu przed wyznaczoną linią zatrzymania?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Znak STOP nakłada obowiązek zatrzymania pojazdu przed wyznaczoną linią zatrzymania, a w razie jej braku - w miejscu o dobrej widoczności."
+  },
+  {
+    "id": 79,
+    "question": "Czy dopuszczalna prędkość samochodu osobowego na drodze jednojezdniowej dwukierunkowej poza obszarem zabudowanym wynosi 90 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Standardowy limit prędkości dla samochodów osobowych na drogach jednojezdniowych poza obszarem zabudowanym wynosi 90 km/h."
+  },
+  {
+    "id": 80,
+    "question": "Czy kierujący pojazdem ma obowiązek zachować odstęp co najmniej 1 metra od wyprzedzanego roweru?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący pojazdem jest obowiązany przy wyprzedzaniu roweru, motoroweru lub motocykla zachować odstęp nie mniejszy niż 1 metr."
+  },
+  {
+    "id": 81,
+    "question": "Czy na przejściu dla pieszych wolno cofać pojazdem?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się cofania na przejściach dla pieszych oraz przejazdach dla rowerzystów."
+  },
+  {
+    "id": 82,
+    "question": "Czy wolno zatrzymać pojazd na moście lub wiadukcie?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Zabrania się zatrzymywania pojazdu na mostach, wiaduktach oraz w tunelach."
+  },
+  {
+    "id": 83,
+    "question": "Czy dopuszcza się jazdę pojazdem silnikowym z niesprawnym sygnałem dźwiękowym (klaksonem)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 1,
+    "category": "B",
+    "explanation": "Sygnał dźwiękowy jest obowiązkowym elementem wyposażenia pojazdu silnikowego i musi być sprawny."
+  },
+  {
+    "id": 84,
+    "question": "Czy pasażer siedzący na tylnym siedzeniu samochodu osobowego ma obowiązek zapinania pasów bezpieczeństwa, jeśli pojazd jest w nie wyposażony?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Każda osoba podróżująca pojazdem wyposażonym w pasy bezpieczeństwa ma obowiązek z nich korzystać, również pasażerowie z tyłu."
+  },
+  {
+    "id": 85,
+    "question": "Czy wolno wyprzedzać na przejściu dla pieszych na skrzyżowaniu, na którym ruch jest kierowany sygnalizacją świetlną?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zakaz wyprzedzania na przejściu lub przed nim nie dotyczy przejść, na których ruch jest kierowany sygnalizacją świetlną."
+  },
+  {
+    "id": 86,
+    "question": "Czy kierujący pojazdem ma obowiązek ustąpić pierwszeństwa rowerzyście znajdującemu się na przejeździe dla rowerzystów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący pojazdem zbliżając się do przejazdu dla rowerzystów ma obowiązek zachować szczególną ostrożność i ustąpić pierwszeństwa rowerzyście znajdującemu się na przejeździe."
+  },
+  {
+    "id": 87,
+    "question": "Czy wolno zatrzymać pojazd w odległości mniejszej niż 10 metrów od przejazdu kolejowego?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się zatrzymywania pojazdu na przejeździe kolejowym i tramwajowym oraz w odległości mniejszej niż 10 m od nich."
+  },
+  {
+    "id": 88,
+    "question": "Czy dozwolona jest jazda na światłach pozycyjnych zamiast świateł mijania w czasie gęstej mgły w dzień?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "W warunkach niedostatecznej widoczności (np. gęsta mgła) należy używać świateł mijania lub przednich świateł przeciwmgłowych."
+  },
+  {
+    "id": 89,
+    "question": "Czy dopuszczalna prędkość autobusu na autostradzie wynosi zawsze maksymalnie 100 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Dopuszczalna prędkość autobusu spełniającego dodatkowe warunki techniczne wynosi 100 km/h. Standardowo dla autobusów wynosi 80 km/h."
+  },
+  {
+    "id": 90,
+    "question": "Czy wolno wyprzedzać z prawej strony na autostradzie o trzech wyznaczonych pasach ruchu w jednym kierunku?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Wyprzedzanie z prawej strony jest dozwolone na autostradzie poza obszarem zabudowanym o co najmniej dwóch wyznaczonych pasach w jednym kierunku."
+  },
+  {
+    "id": 91,
+    "question": "Czy kierujący pojazdem, wjeżdżając na drogę z pola lub posesji, włącza się do ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Wjeżdżanie na drogę z posesji, pola lub strefy zamieszkania stanowi włączenie się do ruchu, co wymaga ustąpienia pierwszeństwa wszystkim uczestnikom drogi."
+  },
+  {
+    "id": 92,
+    "question": "Czy kierujący pojazdem zbliżający się do przystanku tramwajowego bez wysepki ma obowiązek zatrzymać pojazd, aby umożliwić pasażerom bezpieczne przejście do tramwaju lub na chodnik?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący jest obowiązany zatrzymać pojazd na wysokości ostatniego wagonu tramwaju, aby umożliwić pasażerom bezpieczne wsiadanie i wysiadanie."
+  },
+  {
+    "id": 93,
+    "question": "Czy wolno używać tylnych świateł przeciwmgłowych, gdy widoczność wynosi 70 metrów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tylnych świateł przeciwmgłowych wolno używać wyłącznie wtedy, gdy zmniejszona przejrzystość powietrza ogranicza widoczność poniżej 50 m."
+  },
+  {
+    "id": 94,
+    "question": "Czy na autostradzie dopuszczalna jest jazda z prędkością 30 km/h z powodu awarii silnika bez włączonych świateł awaryjnych?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się poruszania pojazdem uszkodzonym na autostradzie. Należy zjechać na pas awaryjny i odpowiednio oznakować postój."
+  },
+  {
+    "id": 95,
+    "question": "Czy wolno wyprzedzać pojazd uprzywilejowany poza obszarem zabudowanym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Zakaz wyprzedzania pojazdów uprzywilejowanych obowiązuje wyłącznie na obszarze zabudowanym."
+  },
+  {
+    "id": 96,
+    "question": "Czy dopuszczalna prędkość pojazdu osobowego w strefie zamieszkania wynosi 20 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Prędkość dopuszczalna pojazdu lub zespołu pojazdów w strefie zamieszkania wynosi 20 km/h."
+  },
+  {
+    "id": 97,
+    "question": "Czy wolno zatrzymać pojazd na pasie między jezdniami?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Zabrania się zatrzymywania pojazdu na pasie między jezdniami oraz na pasach dzielących jezdnie."
+  },
+  {
+    "id": 98,
+    "question": "Czy kierujący pojazdem, który brał udział w wypadku drogowym, w którym nie ma rannych, ma obowiązek niezwłocznie usunąć pojazd z miejsca wypadku, aby nie powodował zagrożenia lub tamowania ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Jeżeli w wypadku nie ma rannych ani zabitych (jest to kolizja), kierujący ma obowiązek niezwłocznie usunąć pojazd z miejsca zdarzenia."
+  },
+  {
+    "id": 99,
+    "question": "Czy wolno omijać pojazd, który zatrzymał się przed przejściem dla pieszych w celu ustąpienia pierwszeństwa pieszemu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się omijania pojazdu, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszemu."
+  },
+  {
+    "id": 100,
+    "question": "Czy dopuszczalna prędkość motocykla, którym przewozi się dziecko w wieku do 7 lat, wynosi 40 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Prędkość dopuszczalna motocykla, motoroweru lub roweru, którym przewozi się dziecko w wieku do 7 lat, wynosi 40 km/h."
+  },
+  {
+    "id": 101,
+    "question": "Czy sygnały świetlne mają pierwszeństwo przed znakami drogowymi regulującymi pierwszeństwo przejazdu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Sygnały świetlne mają wyższość nad znakami drogowymi regulującymi pierwszeństwo przejazdu."
+  },
+  {
+    "id": 102,
+    "question": "Czy polecenia dawane przez osobę kierującą ruchem mają pierwszeństwo przed sygnałami świetlnymi?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Sygnały i polecenia dawane przez osobę kierującą ruchem mają bezwzględne pierwszeństwo przed sygnałami świetlnymi i znakami drogowymi."
+  },
+  {
+    "id": 103,
+    "question": "Czy wolno używać opon z umieszczonymi w nich na stałe elementami przeciwślizgowymi (kolcami) na drogach publicznych w Polsce?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Zabrania się używania opon z umieszczonymi w nich na stałe kolcami na drogach publicznych w Polsce."
+  },
+  {
+    "id": 104,
+    "question": "Czy wolno ciągnąć pojazd na połączeniu giętkim, jeśli jego układ hamulcowy jest całkowicie niesprawny?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "W pojeździe holowanym na połączeniu giętkim sprawny musi być układ hamulcowy. Przy niesprawnych hamulcach holowanie dopuszczalne jest tylko na sztywnym połączeniu."
+  },
+  {
+    "id": 105,
+    "question": "Czy wolno zatrzymać pojazd na drodze dla pieszych (chodniku) całym pojazdem, jeśli szerokość pozostawionego chodnika wynosi 1 metr?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Szerokość chodnika pozostawionego dla pieszych musi wynosić co najmniej 1,5 metra."
+  },
+  {
+    "id": 106,
+    "question": "Czy kierujący pojazdem ma obowiązek używać kierunkowskazu przy zmianie pasa ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Kierujący jest obowiązany zawczasu i wyraźnie zasygnalizować zamiar zmiany pasa ruchu lub kierunku jazdy."
+  },
+  {
+    "id": 107,
+    "question": "Czy kierującemu pojazdem wolno przewozić osobę w stanie nietrzeźwości na motorowerze lub motocyklu poza wózkiem bocznym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się przewożenia na motocyklu lub motorowerze osoby w stanie nietrzeźwości poza wózkiem bocznym."
+  },
+  {
+    "id": 108,
+    "question": "Czy kierujący pojazdem ma obowiązek zachować szczególną ostrożność podczas włączania się do ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy włączaniu się do ruchu."
+  },
+  {
+    "id": 109,
+    "question": "Czy wolno wyprzedzać pojazd na przejeździe kolejowym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się wyprzedzania pojazdu silnikowego na przejazdach kolejowych i bezpośrednio przed nimi."
+  },
+  {
+    "id": 110,
+    "question": "Czy zielona strzałka do skrętu warunkowego (S-2) świecąca się razem z czerwonym światłem zezwala na wjazd bez uprzedniego zatrzymania się?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Przed wjazdem za sygnalizator S-2 z zieloną strzałką kierujący ma bezwzględny obowiązek całkowitego zatrzymania się."
+  },
+  {
+    "id": 111,
+    "question": "Jaka jest dopuszczalna prędkość na drodze ekspresowej jednojezdniowej dla samochodu osobowego?",
+    "isBasic": false,
+    "options": [
+      "80 km/h",
+      "100 km/h",
+      "120 km/h"
+    ],
+    "correctAnswer": "100 km/h",
+    "points": 3,
+    "category": "B",
+    "explanation": "Na drodze ekspresowej jednojezdniowej limit wynosi 100 km/h dla samochodów osobowych, motocykli i aut ciężarowych do 3.5t."
+  },
+  {
+    "id": 112,
+    "question": "W jakiej odległości od skrzyżowania w obszarze zabudowanym zabrania się zatrzymywania pojazdu?",
+    "isBasic": false,
+    "options": [
+      "Mniej niż 5 metrów",
+      "Mniej niż 10 metrów",
+      "Mniej niż 15 metrów"
+    ],
+    "correctAnswer": "Mniej niż 10 metrów",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się zatrzymywania pojazdu na skrzyżowaniu oraz w odległości mniejszej niż 10 m od skrzyżowania."
+  },
+  {
+    "id": 113,
+    "question": "Jaka jest minimalna dopuszczalna odległość od poprzedzającego pojazdu na autostradzie przy prędkości 120 km/h?",
+    "isBasic": false,
+    "options": [
+      "40 metrów",
+      "60 metrów",
+      "100 metrów"
+    ],
+    "correctAnswer": "60 metrów",
+    "points": 3,
+    "category": "B",
+    "explanation": "Na autostradach i drogach ekspresowych bezpieczny odstęp między pojazdami wynosi co najmniej połowę prędkości wyrażoną w metrach (np. 120 km/h = 60 m)."
+  },
+  {
+    "id": 114,
+    "question": "Jaki dokument uprawnia do kierowania zespołem pojazdów składającym się z samochodu osobowego i przyczepy o DMC 1500 kg (łączna DMC zestawu wynosi 4200 kg)?",
+    "isBasic": false,
+    "options": [
+      "Samo prawo jazdy kategorii B",
+      "Prawo jazdy kategorii B z kodem 96 lub kategorii B+E",
+      "Wymagane jest prawo jazdy kategorii C"
+    ],
+    "correctAnswer": "Prawo jazdy kategorii B z kodem 96 lub kategorii B+E",
+    "points": 2,
+    "category": "B",
+    "explanation": "Jeśli przyczepa jest cięższa niż lekka, a łączna DMC zespołu przekracza 3500 kg, wymagany jest kod 96 (do 4250 kg) lub kat. B+E."
+  },
+  {
+    "id": 115,
+    "question": "Pod jakim kątem dopuszcza się parkowanie pojazdu na chodniku, o ile znaki nie wskazują inaczej?",
+    "isBasic": false,
+    "options": [
+      "Wyłącznie równolegle do krawędzi jezdni",
+      "Kołami jednego boku lub przedniej osi, pod warunkiem pozostawienia co najmniej 1,5 m dla pieszych",
+      "Pod dowolnym kątem, nawet blokując cały chodnik"
+    ],
+    "correctAnswer": "Kołami jednego boku lub przedniej osi, pod warunkiem pozostawienia co najmniej 1,5 m dla pieszych",
+    "points": 2,
+    "category": "B",
+    "explanation": "Dopuszcza się zatrzymanie lub postój na chodniku kołami jednego boku lub przedniej osi pojazdu o DMC do 3,5t, pod warunkiem pozostawienia min. 1,5 m wolnego chodnika."
+  },
+  {
+    "id": 116,
+    "question": "Jaki poziom alkoholu we krwi kierowcy oznacza popełnienie przestępstwa (stan nietrzeźwości) w Polsce?",
+    "isBasic": false,
+    "options": [
+      "Powyżej 0,2 promila",
+      "Powyżej 0,5 promila",
+      "Powyżej 1,0 promila"
+    ],
+    "correctAnswer": "Powyżej 0,5 promila",
+    "points": 3,
+    "category": "B",
+    "explanation": "Stan nietrzeźwości (przestępstwo) zachodzi, gdy zawartość alkoholu we krwi przekracza 0,5 promila (lub 0,25 mg/dm3 w wydychanym powietrzu)."
+  },
+  {
+    "id": 117,
+    "question": "Jakie oświetlenie należy włączyć w pojeździe podczas holowania w warunkach niedostatecznej widoczności z tyłu pojazdu holowanego?",
+    "isBasic": false,
+    "options": [
+      "Światła awaryjne",
+      "Światła pozycyjne",
+      "Światła mijania"
+    ],
+    "correctAnswer": "Światła pozycyjne",
+    "points": 2,
+    "category": "B",
+    "explanation": "W pojeździe holowanym (z wyjątkiem motocykla) z tyłu po lewej stronie umieszcza się ostrzegawczy trójkąt, a przy niedostatecznej widoczności włącza się światła pozycyjne."
+  },
+  {
+    "id": 118,
+    "question": "Z jaką maksymalną prędkością wolno holować pojazd w obszarze zabudowanym?",
+    "isBasic": false,
+    "options": [
+      "20 km/h",
+      "30 km/h",
+      "50 km/h"
+    ],
+    "correctAnswer": "30 km/h",
+    "points": 2,
+    "category": "B",
+    "explanation": "Prędkość pojazdu holującego nie może przekraczać 30 km/h w obszarze zabudowanym i 60 km/h poza nim."
+  },
+  {
+    "id": 119,
+    "question": "Jaka jest maksymalna szerokość samochodu osobowego wraz z ładunkiem, która nie wymaga specjalnego pozwolenia?",
+    "isBasic": false,
+    "options": [
+      "2,40 m",
+      "2,55 m",
+      "3,00 m"
+    ],
+    "correctAnswer": "2,55 m",
+    "points": 2,
+    "category": "B",
+    "explanation": "Maksymalna szerokość pojazdu (w tym samochodu osobowego) wraz z ładunkiem nie może przekraczać 2,55 m."
+  },
+  {
+    "id": 120,
+    "question": "Kiedy kierujący pojazdem ma obowiązek zmienić światła drogowe na mijania?",
+    "isBasic": false,
+    "options": [
+      "Zawsze po wjechaniu w obszar zabudowany",
+      "Gdy z naprzeciwka nadjeżdża inny pojazd lub pieszy i istnieje ryzyko ich oślepienia",
+      "Tylko wtedy, gdy mija nas patrol policji"
+    ],
+    "correctAnswer": "Gdy z naprzeciwka nadjeżdża inny pojazd lub pieszy i istnieje ryzyko ich oślepienia",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący ma obowiązek wyłączyć światła drogowe, gdy zachodzi możliwość oślepienia innych kierujących lub pieszych."
+  },
+  {
+    "id": 121,
+    "question": "W jakim przypadku dopuszcza się wyprzedzanie pojazdu z prawej strony na drodze jednojezdniowej dwukierunkowej poza obszarem zabudowanym?",
+    "isBasic": false,
+    "options": [
+      "Gdy wyprzedzany pojazd jedzie wolniej niż 20 km/h",
+      "Gdy wyprzedzany pojazd sygnalizuje zamiar skrętu w lewo i określił swój tor jazdy",
+      "Poza obszarem zabudowanym na drodze jednojezdniowej jest to całkowicie zabronione"
+    ],
+    "correctAnswer": "Gdy wyprzedzany pojazd sygnalizuje zamiar skrętu w lewo i określił swój tor jazdy",
+    "points": 2,
+    "category": "B",
+    "explanation": "Wyprzedzanie z prawej strony na drodze jednojezdniowej dwukierunkowej jest dozwolone wyłącznie wtedy, gdy wyprzedzany pojazd sygnalizuje zamiar skrętu w lewo."
+  },
+  {
+    "id": 122,
+    "question": "Jak należy przewozić ładunek wystający z tyłu pojazdu osobowego?",
+    "isBasic": false,
+    "options": [
+      "Należy go oznaczyć czerwoną chorągiewką lub czerwonym światłem w nocy, jeśli wystaje ponad 0,5 m",
+      "Należy jechać z włączonymi światłami awaryjnymi",
+      "Ładunek nie może wystawać z tyłu w ogóle"
+    ],
+    "correctAnswer": "Należy go oznaczyć czerwoną chorągiewką lub czerwonym światłem w nocy, jeśli wystaje ponad 0,5 m",
+    "points": 2,
+    "category": "B",
+    "explanation": "Ładunek wystający z tyłu pojazdu oznacza się czerwoną chorągiewką (czerwonym światłem w warunkach niedostatecznej widoczności) - obowiązkowo, jeśli wystaje o więcej niż 0,5 m."
+  },
+  {
+    "id": 123,
+    "question": "Jaka jest dopuszczalna prędkość samochodu osobowego na autostradzie w Polsce?",
+    "isBasic": false,
+    "options": [
+      "120 km/h",
+      "130 km/h",
+      "140 km/h"
+    ],
+    "correctAnswer": "140 km/h",
+    "points": 3,
+    "category": "B",
+    "explanation": "Maksymalna dopuszczalna prędkość samochodu osobowego na autostradzie wynosi 140 km/h."
+  },
+  {
+    "id": 124,
+    "question": "Jakie światła należy włączyć w tunelu o długości 100 metrów w obszarze zabudowanym przy dobrej widoczności?",
+    "isBasic": false,
+    "options": [
+      "Światła drogowe",
+      "Światła do jazdy dziennej",
+      "Światła mijania"
+    ],
+    "correctAnswer": "Światła mijania",
+    "points": 3,
+    "category": "B",
+    "explanation": "Podczas jazdy w tunelu kierujący ma obowiązek używać świateł mijania, niezależnie od pory dnia i poziomu oświetlenia tunelu."
+  },
+  {
+    "id": 125,
+    "question": "Co oznacza znak pionowy A-7 (odwrócony trójkąt)?",
+    "isBasic": false,
+    "options": [
+      "Należy się bezwzględnie zatrzymać przed skrzyżowaniem",
+      "Ostrzega o skrzyżowaniu i nakazuje ustąpienie pierwszeństwa pojazdom na drodze z pierwszeństwem",
+      "Oznacza koniec drogi ekspresowej"
+    ],
+    "correctAnswer": "Ostrzega o skrzyżowaniu i nakazuje ustąpienie pierwszeństwa pojazdom na drodze z pierwszeństwem",
+    "points": 3,
+    "category": "B",
+    "explanation": "Znak A-7 ostrzega o skrzyżowaniu z drogą z pierwszeństwem i nakazuje ustąpienie pierwszeństwa przejazdu bez konieczności zatrzymania, jeśli droga jest wolna."
+  },
+  {
+    "id": 126,
+    "question": "Co oznacza znak poziomy P-14 (linia warunkowego zatrzymania przed sygnalizatorem)?",
+    "isBasic": false,
+    "options": [
+      "Zabrania zatrzymywania się na jezdni",
+      "Wskazuje miejsce zatrzymania pojazdu na skrzyżowaniu przed sygnalizatorem",
+      "Wyznacza granicę pasa ruchu dla pojazdów wolnobieżnych"
+    ],
+    "correctAnswer": "Wskazuje miejsce zatrzymania pojazdu na skrzyżowaniu przed sygnalizatorem",
+    "points": 2,
+    "category": "B",
+    "explanation": "Znak P-14 wskazuje miejsce zatrzymania pojazdu na skrzyżowaniu przed sygnalizatorem, na czerwonym świetle lub przed przejściem."
+  },
+  {
+    "id": 127,
+    "question": "Na jaką odległość przed pojazdem powinny oświetlać drogę światła drogowe w warunkach dobrej przejrzystości?",
+    "isBasic": false,
+    "options": [
+      "Co najmniej 40 m",
+      "Co najmniej 100 m",
+      "Co najmniej 150 m"
+    ],
+    "correctAnswer": "Co najmniej 100 m",
+    "points": 2,
+    "category": "B",
+    "explanation": "Światła drogowe pojazdu samochodowego powinny dostatecznie oświetlać drogę przed pojazdem na odległość co najmniej 100 m."
+  },
+  {
+    "id": 128,
+    "question": "Jaka jest minimalna odległość oświetlania drogi przez światła mijania?",
+    "isBasic": false,
+    "options": [
+      "Co najmniej 20 m",
+      "Co najmniej 40 m",
+      "Co najmniej 60 m"
+    ],
+    "correctAnswer": "Co najmniej 40 m",
+    "points": 2,
+    "category": "B",
+    "explanation": "Światła mijania powinny dostatecznie oświetlać drogę przed pojazdem na odległość co najmniej 40 m."
+  },
+  {
+    "id": 129,
+    "question": "Jakie dokumenty należy okazać podczas kontroli drogowej, jeśli kierujesz pojazdem zarejestrowanym za granicą?",
+    "isBasic": false,
+    "options": [
+      "Tylko dowód osobisty",
+      "Prawo jazdy, dowód rejestracyjny i potwierdzenie zawarcia umowy OC (lub Zieloną Kartę)",
+      "Wystarczy polski paszport"
+    ],
+    "correctAnswer": "Prawo jazdy, dowód rejestracyjny i potwierdzenie zawarcia umowy OC (lub Zieloną Kartę)",
+    "points": 2,
+    "category": "B",
+    "explanation": "Kierując pojazdem zarejestrowanym za granicą, należy okazać dokumenty potwierdzające dopuszczenie pojazdu do ruchu oraz ubezpieczenie OC."
+  },
+  {
+    "id": 130,
+    "question": "Z jaką maksymalną prędkością wolno jechać na obszarze zabudowanym w strefie zamieszkania?",
+    "isBasic": false,
+    "options": [
+      "20 km/h",
+      "30 km/h",
+      "50 km/h"
+    ],
+    "correctAnswer": "20 km/h",
+    "points": 3,
+    "category": "B",
+    "explanation": "W strefie zamieszkania dopuszczalna prędkość pojazdów wynosi 20 km/h."
+  },
+  {
+    "id": 131,
+    "question": "Kto ma pierwszeństwo w strefie zamieszkania?",
+    "isBasic": false,
+    "options": [
+      "Zawsze pojazd nadjeżdżający z prawej strony",
+      "Pieszy ma zawsze pierwszeństwo przed wszystkimi pojazdami",
+      "Rowerzysta przed pieszym"
+    ],
+    "correctAnswer": "Pieszy ma zawsze pierwszeństwo przed wszystkimi pojazdami",
+    "points": 3,
+    "category": "B",
+    "explanation": "W strefie zamieszkania pieszy może korzystać z całej szerokości drogi i ma pierwszeństwo przed pojazdami."
+  },
+  {
+    "id": 132,
+    "question": "Co oznacza podniesienie ręki przez policjanta kierującego ruchem na skrzyżowaniu?",
+    "isBasic": false,
+    "options": [
+      "Nakaz skrętu w lewo",
+      "Zapowiedź zmiany dotychczasowego sygnału (odpowiednik światła żółtego)",
+      "Zezwolenie na wjazd dla wszystkich"
+    ],
+    "correctAnswer": "Zapowiedź zmiany dotychczasowego sygnału (odpowiednik światła żółtego)",
+    "points": 3,
+    "category": "B",
+    "explanation": "Podniesienie ręki przez kierującego ruchem oznacza zapowiedź zmiany dotychczasowego sygnału i zakaz wjazdu na skrzyżowanie (jak żółte światło)."
+  },
+  {
+    "id": 133,
+    "question": "W jakim czasie od zakupu pojazdu zarejestrowanego w Polsce nowy właściciel ma obowiązek zgłosić nabycie lub zarejestrować pojazd?",
+    "isBasic": false,
+    "options": [
+      "Do 14 dni",
+      "Do 30 dni",
+      "Do 90 dni"
+    ],
+    "correctAnswer": "Do 30 dni",
+    "points": 2,
+    "category": "B",
+    "explanation": "Właściciel pojazdu sprowadzonego z UE lub nabytego w kraju ma obowiązek zarejestrować go lub zgłosić jego nabycie w terminie 30 dni."
+  },
+  {
+    "id": 134,
+    "question": "Jaki jest okres próbny dla osoby, która po raz pierwszy uzyskała prawo jazdy kategorii B?",
+    "isBasic": false,
+    "options": [
+      "1 rok",
+      "2 lata",
+      "3 lata"
+    ],
+    "correctAnswer": "2 lata",
+    "points": 2,
+    "category": "B",
+    "explanation": "Okres próbny dla osoby, która po raz pierwszy uzyskała prawo jazdy kategorii B, trwa 2 lata od dnia odebrania dokumentu."
+  },
+  {
+    "id": 135,
+    "question": "Jaka jest dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej?",
+    "isBasic": false,
+    "options": [
+      "100 km/h",
+      "110 km/h",
+      "120 km/h"
+    ],
+    "correctAnswer": "120 km/h",
+    "points": 3,
+    "category": "B",
+    "explanation": "Na drodze ekspresowej dwujezdniowej limit prędkości dla samochodów osobowych wynosi 120 km/h."
+  },
+  {
+    "id": 136,
+    "question": "Ile punktów karnych maksymalnie może zgromadzić kierowca posiadający prawo jazdy dłużej niż rok, zanim zostanie skierowany na egzamin sprawdzający?",
+    "isBasic": false,
+    "options": [
+      "20 punktów",
+      "24 punkty",
+      "30 punktów"
+    ],
+    "correctAnswer": "24 punkty",
+    "points": 2,
+    "category": "B",
+    "explanation": "Kierowca posiadający uprawnienia dłużej niż rok może zgromadzić maksymalnie 24 punkty karne. Przekroczenie tej liczby skutkuje skierowaniem na egzamin kontrolny."
+  },
+  {
+    "id": 137,
+    "question": "Ile punktów karnych maksymalnie może zgromadzić kierowca w pierwszym roku od uzyskania uprawnień?",
+    "isBasic": false,
+    "options": [
+      "20 punktów",
+      "24 punkty",
+      "25 punktów"
+    ],
+    "correctAnswer": "20 punktów",
+    "points": 3,
+    "category": "B",
+    "explanation": "Dla kierowców w pierwszym roku posiadania uprawnień limit wynosi 20 punktów karnych. Przekroczenie tej liczby oznacza cofnięcie prawa jazdy."
+  },
+  {
+    "id": 138,
+    "question": "Co należy zrobić najpierw, gdy podczas jazdy nocą zostaniesz oślepiony przez pojazd z naprzeciwka?",
+    "isBasic": false,
+    "options": [
+      "Włączyć światła drogowe w celu odwetu",
+      "Zmniejszyć prędkość, a w razie potrzeby zatrzymać się, i przenieść wzrok na prawą krawędź drogi",
+      "Zatrzymać się nagle bez uprzedniego zwolnienia"
+    ],
+    "correctAnswer": "Zmniejszyć prędkość, a w razie potrzeby zatrzymać się, i przenieść wzrok na prawą krawędź drogi",
+    "points": 3,
+    "category": "B",
+    "explanation": "W przypadku oślepienia należy natychmiast zwolnić, a w razie potrzeby zatrzymać pojazd i patrzeć na prawą krawędź drogi, unikając patrzenia w reflektory."
+  },
+  {
+    "id": 139,
+    "question": "Z jaką maksymalną prędkością wolno holować pojazd poza obszarem zabudowanym?",
+    "isBasic": false,
+    "options": [
+      "50 km/h",
+      "60 km/h",
+      "80 km/h"
+    ],
+    "correctAnswer": "60 km/h",
+    "points": 2,
+    "category": "B",
+    "explanation": "Prędkość pojazdu holującego nie może przekraczać 30 km/h w obszarze zabudowanym oraz 60 km/h poza tym obszarem."
+  },
+  {
+    "id": 140,
+    "question": "Jaka jest dopuszczalna odległość między pojazdami przy holowaniu na połączeniu giętkim?",
+    "isBasic": false,
+    "options": [
+      "Od 2 do 4 metrów",
+      "Od 4 do 6 metrów",
+      "Zawsze dokładnie 3 metry"
+    ],
+    "correctAnswer": "Od 4 do 6 metrów",
+    "points": 2,
+    "category": "B",
+    "explanation": "Odległość między pojazdem holującym a holowanym na połączeniu giętkim musi wynosić od 4 do 6 metrów."
+  },
+  {
+    "id": 141,
+    "question": "Z jakiego koloru światłem wstecznym musi być wyposażony samochód osobowy z tyłu?",
+    "isBasic": false,
+    "options": [
+      "Żółtym",
+      "Czerwonym",
+      "Białym"
+    ],
+    "correctAnswer": "Białym",
+    "points": 2,
+    "category": "B",
+    "explanation": "Pojazd samochodowy musi być wyposażony w jedno lub dwa światła cofania o barwie białej."
+  },
+  {
+    "id": 142,
+    "question": "Jaka jest maksymalna dopuszczalna długość zespołu pojazdów składającego się z samochodu osobowego i przyczepy?",
+    "isBasic": false,
+    "options": [
+      "12,00 metrów",
+      "18,75 metra",
+      "22,00 metrów"
+    ],
+    "correctAnswer": "18,75 metra",
+    "points": 2,
+    "category": "B",
+    "explanation": "Długość zespołu pojazdów składającego się z pojazdu samochodowego i przyczepy nie może przekraczać 18,75 metra."
+  },
+  {
+    "id": 143,
+    "question": "Co oznacza migający żółty sygnał na sygnalizatorze?",
+    "isBasic": false,
+    "options": [
+      "Zakaz wjazdu na skrzyżowanie",
+      "Ostrzeżenie o niebezpieczeństwie i konieczności zachowania szczególnej ostrożności, sygnalizacja nie decyduje o pierwszeństwie",
+      "Nakaz jazdy prosto"
+    ],
+    "correctAnswer": "Ostrzeżenie o niebezpieczeństwie i konieczności zachowania szczególnej ostrożności, sygnalizacja nie decyduje o pierwszeństwie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Migający żółty sygnał ostrzega o niebezpieczeństwie i oznacza, że sygnalizacja jest wyłączona lub uszkodzona, a kierowca musi stosować się do znaków i zasad."
+  },
+  {
+    "id": 144,
+    "question": "Jaka jest dopuszczalna prędkość samochodu osobowego na drodze dwujezdniowej o co najmniej dwóch pasach ruchu w każdą stronę poza obszarem zabudowanym?",
+    "isBasic": false,
+    "options": [
+      "90 km/h",
+      "100 km/h",
+      "120 km/h"
+    ],
+    "correctAnswer": "100 km/h",
+    "points": 2,
+    "category": "B",
+    "explanation": "Na drodze dwujezdniowej poza obszarem zabudowanym prędkość dopuszczalna dla samochodu osobowego wynosi 100 km/h."
+  },
+  {
+    "id": 145,
+    "question": "Kiedy wolno używać świateł pozycyjnych podczas postoju pojazdu?",
+    "isBasic": false,
+    "options": [
+      "Tylko podczas postoju w dzień",
+      "W warunkach niedostatecznej widoczności, jeśli pojazd nie jest oświetlony latarniami ulicznymi lub nie znajduje się poza jezdnią",
+      "Zawsze, gdy zatrzymujemy się na skrzyżowaniu"
+    ],
+    "correctAnswer": "W warunkach niedostatecznej widoczności, jeśli pojazd nie jest oświetlony latarniami ulicznymi lub nie znajduje się poza jezdnią",
+    "points": 2,
+    "category": "B",
+    "explanation": "Podczas postoju w warunkach niedostatecznej widoczności pojazd musi być oświetlony światłami pozycyjnymi, chyba że oświetlenie uliczne jest dostateczne."
+  },
+  {
+    "id": 146,
+    "question": "Na jakich drogach zabroniony jest postój na poboczu?",
+    "isBasic": false,
+    "options": [
+      "Na drogach gminnych",
+      "Na autostradzie i drodze ekspresowej, poza miejscami wyznaczonymi",
+      "W strefie zamieszkania"
+    ],
+    "correctAnswer": "Na autostradzie i drodze ekspresowej, poza miejscami wyznaczonymi",
+    "points": 2,
+    "category": "B",
+    "explanation": "Na autostradzie i drodze ekspresowej postój dopuszczalny jest wyłącznie na wyznaczonych parkingach (MOP) lub w razie awarii na pasie awaryjnym."
+  },
+  {
+    "id": 147,
+    "question": "O czym ostrzega żółty pulsujący sygnał w kształcie sylwetki pieszego przy skręcie w prawo?",
+    "isBasic": false,
+    "options": [
+      "O pieszych przechodzących na zielonym świetle przez drogę poprzeczną, na którą skręcamy",
+      "O zakazie ruchu pieszych w tym rejonie",
+      "O braku chodnika z prawej strony"
+    ],
+    "correctAnswer": "O pieszych przechodzących na zielonym świetle przez drogę poprzeczną, na którą skręcamy",
+    "points": 2,
+    "category": "B",
+    "explanation": "Sygnał ten ostrzega kierującego o konieczności ustąpienia pierwszeństwa pieszym przechodzącym przez drogę, na którą wjeżdża."
+  },
+  {
+    "id": 148,
+    "question": "Jakie هستند objawy zużycia amortyzatorów w pojeździe?",
+    "isBasic": false,
+    "options": [
+      "Zmniejszenie zużycia paliwa",
+      "Wydłużenie drogi hamowania, podatność na boczny wiatr, kołysanie nadwozia",
+      "Tylko szybsze zużywanie się hamulców"
+    ],
+    "correctAnswer": "Wydłużenie drogi hamowania, podatność na boczny wiatr, kołysanie nadwozia",
+    "points": 2,
+    "category": "B",
+    "explanation": "Zużyte amortyzatory powodują odrywanie się kół od nawierzchni, co wydłuża drogę hamowania oraz pogarsza stabilność pojazdu."
+  },
+  {
+    "id": 149,
+    "question": "W jakiej sytuacji kierujący ma prawo wyprzedzić pojazd uprzywilejowany?",
+    "isBasic": false,
+    "options": [
+      "Zawsze, jeśli jedzie szybciej",
+      "Tylko poza obszarem zabudowanym",
+      "W obszarze zabudowanym przy sprzyjających warunkach"
+    ],
+    "correctAnswer": "Tylko poza obszarem zabudowanym",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się wyprzedzania pojazdu uprzywilejowanego na obszarze zabudowanym. Poza obszarem zabudowanym jest to dozwolone."
+  },
+  {
+    "id": 150,
+    "question": "Jaki jest minimalny wiek do uzyskania prawa jazdy kategorii B w Polsce bez uwzględnienia wcześniejszego rozpoczęcia kursu?",
+    "isBasic": false,
+    "options": [
+      "16 lat",
+      "18 lat",
+      "21 lat"
+    ],
+    "correctAnswer": "18 lat",
+    "points": 2,
+    "category": "B",
+    "explanation": "Minimalny wymagany wiek do kierowania pojazdami kategorii B wynosi 18 lat."
+  },
+  {
+    "id": 151,
+    "question": "Czy pas bezpieczeństwa powinien przylegać płasko do ciała bez skręceń?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Pasy bezpieczeństwa działają prawidłowo tylko wtedy, gdy przylegają płasko do ciała. Każde skręcenie pasa może spowodować obrażenia."
+  },
+  {
+    "id": 152,
+    "question": "Czy wolno przewozić dziecko w foteliku tyłem do kierunku jazdy na przednim siedzeniu, gdy poduszka powietrzna pasażera jest aktywna?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się przewożenia dziecka w foteliku tyłem do kierunku jazdy na przednim siedzeniu pasażera przy aktywnej poduszce powietrznej."
+  },
+  {
+    "id": 153,
+    "question": "Czy wolno wyprzedzać inny pojazd na przejściu dla pieszych, jeśli ruch jest kierowany przez policjanta?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zakaz wyprzedzania na przejściu dla pieszych nie dotyczy przejść, na których ruch jest kierowany (np. przez policjanta lub sygnalizację)."
+  },
+  {
+    "id": 154,
+    "question": "Czy kierujący pojazdem ma obowiązek ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu dla pieszych?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący pojazdem zbliżając się do przejścia dla pieszych ma obowiązek zachować szczególną ostrożność, zmniejszyć prędkość i ustąpić pierwszeństwa pieszemu."
+  },
+  {
+    "id": 155,
+    "question": "Czy na drodze oznaczonej znakiem 'droga jednokierunkowa' wolno cofać?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Na drodze jednokierunkowej cofanie jest dozwolone, o ile nie powoduje zagrożenia. Zabronione jest natomiast zawracanie."
+  },
+  {
+    "id": 156,
+    "question": "Czy wolno zawracać na drodze ekspresowej?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się zawracania na autostradzie i drodze ekspresowej."
+  },
+  {
+    "id": 157,
+    "question": "Czy dopuszczalna prędkość pojazdu osobowego na autostradzie wynosi 130 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Dopuszczalna prędkość samochodu osobowego na autostradzie w Polsce wynosi 140 km/h."
+  },
+  {
+    "id": 158,
+    "question": "Czy dopuszczalna prędkość pojazdu osobowego w obszarze zabudowanym wynosi 50 km/h również w nocy?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Prędkość dopuszczalna w obszarze zabudowanym wynosi 50 km/h przez całą dobę."
+  },
+  {
+    "id": 159,
+    "question": "Czy kierujący ma obowiązek ułatwić przejazd pojazdowi uprzywilejowanemu np. poprzez zjechanie na pobocze lub zatrzymanie się?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący pojazdem oraz inni uczestnicy ruchu mają obowiązek ułatwić przejazd pojazdowi uprzywilejowanemu (np. korytarz życia)."
+  },
+  {
+    "id": 160,
+    "question": "Czy wolno zatrzymać pojazd na skrzyżowaniu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się zatrzymywania pojazdu na skrzyżowaniu oraz w odległości mniejszej niż 10 m od niego."
+  },
+  {
+    "id": 161,
+    "question": "Czy kierujący pojazdem jest zwolniony z obowiązku zachowania szczególnej ostrożności podczas zbliżania się do skrzyżowania z ruchowym rondem?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący ma obowiązek zachować szczególną ostrożność podczas zbliżania się i przejeżdżania przez każde skrzyżowanie, w tym rondo."
+  },
+  {
+    "id": 162,
+    "question": "Czy wolno wyprzedzać inny pojazd silnikowy na skrzyżowaniu o ruchu okrężnym (rondzie)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Wyprzedzanie pojazdu silnikowego na skrzyżowaniu o ruchu okrężnym jest dozwolone, w przeciwieństwie do zwykłych skrzyżowań bez sygnalizacji."
+  },
+  {
+    "id": 163,
+    "question": "Czy kierujący pojazdem jest zawsze zobowiązany poruszać się możliwie blisko prawej krawędzi jezdni?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "W Polsce obowiązuje ruch prawostronny. Kierujący pojazdem jest obowiązany jechać możliwie blisko prawej krawędzi jezdni."
+  },
+  {
+    "id": 164,
+    "question": "Czy używanie telefonu komórkowego wymagające trzymania słuchawki lub mikrofonu w ręku jest podczas kierowania pojazdem zabronione?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierującemu pojazdem zabrania się korzystania podczas jazdy z telefonu wymagającego trzymania słuchawki lub mikrofonu w ręku."
+  },
+  {
+    "id": 165,
+    "question": "Czy wolno wyprzedzać na przejeździe kolejowym i bezpośrednio przed nim?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się wyprzedzania pojazdów na przejeździe kolejowym i bezpośrednio przed nim."
+  },
+  {
+    "id": 166,
+    "question": "Czy wolno omijać pojazd, który zatrzymał się przed przejazdem kolejowym, gdy zamknięcie zapór zostało rozpoczęte?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się omijania pojazdów oczekujących na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu."
+  },
+  {
+    "id": 167,
+    "question": "Czy wolno cofać na autostradzie?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Na autostradzie zabrania się cofania, zawracania oraz zatrzymywania się na pasie awaryjnym poza sytuacjami awaryjnymi."
+  },
+  {
+    "id": 168,
+    "question": "Czy na skrzyżowaniu z sygnalizacją świetlną dopuszcza się skręt w lewo, jeśli sygnalizator kierunkowy S-3 wskazuje zieloną strzałkę w lewo i nie ma innych pojazdów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Sygnał zielony na sygnalizatorze kierunkowym S-3 oznacza bezkolizyjny przejazd w określonym kierunku."
+  },
+  {
+    "id": 169,
+    "question": "Czy na skrzyżowaniu oznaczonym znakiem 'droga z pierwszeństwem' masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony drogi podporządkowanej?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący na drodze z pierwszeństwem ma pierwszeństwo przejazdu przed pojazdami znajdującymi się na drodze podporządkowanej."
+  },
+  {
+    "id": 170,
+    "question": "Czy wolno wjeżdżać na skrzyżowanie, jeżeli na skrzyżowaniu lub za nim nie ma miejsca do kontynuowania jazdy?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierującemu zabrania się wjeżdżania na skrzyżowanie, jeżeli na nim lub za nim nie ma miejsca do kontynuowania jazdy, co powodowałoby zablokowanie ruchu."
+  },
+  {
+    "id": 171,
+    "question": "Z jaką maksymalną prędkością może poruszać się samochód osobowy na drodze jednojezdniowej dwukierunkowej poza obszarem zabudowanym?",
+    "isBasic": false,
+    "options": [
+      "70 km/h",
+      "90 km/h",
+      "100 km/h"
+    ],
+    "correctAnswer": "90 km/h",
+    "points": 3,
+    "category": "B",
+    "explanation": "Na zwykłych drogach jednojezdniowych poza obszarem zabudowanym limit prędkości dla samochodów osobowych wynosi 90 km/h."
+  },
+  {
+    "id": 172,
+    "question": "Jaka jest maksymalna dopuszczalna wysokość pojazdu samochodowego w Polsce (wraz z ładunkiem)?",
+    "isBasic": false,
+    "options": [
+      "3,50 m",
+      "4,00 m",
+      "4,50 m"
+    ],
+    "correctAnswer": "4,00 m",
+    "points": 2,
+    "category": "B",
+    "explanation": "Maksymalna wysokość każdego pojazdu, w tym z ładunkiem, nie może przekraczać 4,00 metrów."
+  },
+  {
+    "id": 173,
+    "question": "Z jakiej odległości należy zacząć sygnalizować zamiar wykonania manewru skrętu?",
+    "isBasic": false,
+    "options": [
+      "Zawsze dokładnie 50 m przed skrętem",
+      "Zawczasu i wyraźnie, tak aby inni uczestnicy ruchu mogli zareagować",
+      "Tylko w momencie rozpoczęcia kręcenia kierownicą"
+    ],
+    "correctAnswer": "Zawczasu i wyraźnie, tak aby inni uczestnicy ruchu mogli zareagować",
+    "points": 3,
+    "category": "B",
+    "explanation": "Przepisy wymagają, aby zamiar zmiany kierunku jazdy lub pasa ruchu sygnalizować zawczasu i wyraźnie, a zaprzestać niezwłocznie po wykonaniu manewru."
+  },
+  {
+    "id": 174,
+    "question": "O ile wolno przekroczyć prędkość podaną na znaku drogowym B-33 (ograniczenie prędkości)?",
+    "isBasic": false,
+    "options": [
+      "O 10 km/h",
+      "O 20 km/h",
+      "Wcale nie wolno przekraczać prędkości podanej na znaku"
+    ],
+    "correctAnswer": "Wcale nie wolno przekraczać prędkości podanej na znaku",
+    "points": 3,
+    "category": "B",
+    "explanation": "Ograniczenie prędkości wyraża prędkość maksymalną. Przekroczenie jej o jakąkolwiek wartość stanowi wykroczenie."
+  },
+  {
+    "id": 175,
+    "question": "Jaki kolor tła mają znaki drogowe na autostradach w Polsce?",
+    "isBasic": false,
+    "options": [
+      "Zielony",
+      "Niebieski",
+      "Żółty"
+    ],
+    "correctAnswer": "Niebieski",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tablice kierunkowe i drogowskazy na autostradach mają tło barwy niebieskiej, natomiast na drogach ekspresowych i krajowych tło zielone."
+  },
+  {
+    "id": 176,
+    "question": "Jakie światła należy stosować na pojeździe podczas holowania w ciągu dnia przy dobrej widoczności?",
+    "isBasic": false,
+    "options": [
+      "W pojeździe holującym - mijania; w pojeździe holowanym - brak świateł",
+      "W pojeździe holującym - mijania; w pojeździe holowanym - pozycyjne w warunkach niedostatecznej widoczności, a w dzień brak świateł (ale wymagany trójkąt)",
+      "W obu pojazdach światła awaryjne"
+    ],
+    "correctAnswer": "W pojeździe holującym - mijania; w pojeździe holowanym - pozycyjne w warunkach niedostatecznej widoczności, a w dzień brak świateł (ale wymagany trójkąt)",
+    "points": 2,
+    "category": "B",
+    "explanation": "Pojazd holujący używa świateł mijania. Pojazd holowany w dzień przy dobrej widoczności nie musi włączać świateł, lecz musi mieć z tyłu trójkąt ostrzegawczy."
+  },
+  {
+    "id": 177,
+    "question": "Z jaką maksymalną prędkością wolno cofać pojazdem osobowym?",
+    "isBasic": false,
+    "options": [
+      "Z prędkością nieutrudniającą ruchu i zapewniającą bezpieczeństwo",
+      "Maksymalnie 10 km/h",
+      "Maksymalnie 20 km/h"
+    ],
+    "correctAnswer": "Z prędkością nieutrudniającą ruchu i zapewniającą bezpieczeństwo",
+    "points": 2,
+    "category": "B",
+    "explanation": "Przepisy nie określają sztywnego limitu prędkości przy cofaniu, jednak nakazują zachowanie szczególnej ostrożności i bezpiecznej prędkości."
+  },
+  {
+    "id": 178,
+    "question": "Jaki jest podstawowy cel stosowania systemu ABS w samochodzie?",
+    "isBasic": false,
+    "options": [
+      "Skrócenie drogi hamowania za każdym razem o połowę",
+      "Zapobieganie zablokowaniu kół podczas hamowania w celu zachowania sterowności pojazdu",
+      "Automatyczne hamowanie przed przeszkodą"
+    ],
+    "correctAnswer": "Zapobieganie zablokowaniu kół podczas hamowania w celu zachowania sterowności pojazdu",
+    "points": 3,
+    "category": "B",
+    "explanation": "System ABS zapobiega blokowaniu kół podczas gwałtownego hamowania, co umożliwia kierowcy ominięcie przeszkody i utrzymanie kierunku jazdy."
+  },
+  {
+    "id": 179,
+    "question": "Który z systemów bezpieczeństwa zapobiega poślizgowi kół napędzanych podczas ruszania i przyspieszania?",
+    "isBasic": false,
+    "options": [
+      "ABS",
+      "ASR (TC)",
+      "ESP"
+    ],
+    "correctAnswer": "ASR (TC)",
+    "points": 2,
+    "category": "B",
+    "explanation": "ASR (Acceleration Slip Regulation) to system kontroli trakcji, którego zadaniem jest niedopuszczenie do poślizgu kół napędowych przy ruszaniu i przyspieszaniu."
+  },
+  {
+    "id": 180,
+    "question": "Jak działa system ESP w samochodzie?",
+    "isBasic": false,
+    "options": [
+      "Ułatwia parkowanie tyłem",
+      "Stabilizuje tor jazdy pojazdu podczas pokonywania zakrętów poprzez przyhamowywanie odpowiednich kół",
+      "Zapobiega rozładowaniu akumulatora"
+    ],
+    "correctAnswer": "Stabilizuje tor jazdy pojazdu podczas pokonywania zakrętów poprzez przyhamowywanie odpowiednich kół",
+    "points": 2,
+    "category": "B",
+    "explanation": "System ESP (Electronic Stability Program) przeciwdziała poślizgom podsterownym i nadsterownym, selektywnie hamując poszczególne koła pojazdu."
+  },
+  {
+    "id": 181,
+    "question": "Co należy zrobić, gdy podczas hamowania na mokrej nawierzchni poczujesz pulsowanie pedału hamulca w aucie z ABS?",
+    "isBasic": false,
+    "options": [
+      "Odpuścić pedał hamulca, aby nie uszkodzić układu",
+      "Naciskać pedał hamulca z całej siły, nie zmniejszając nacisku",
+      "Hamować pulsacyjnie (pompować pedał)"
+    ],
+    "correctAnswer": "Naciskać pedał hamulca z całej siły, nie zmniejszając nacisku",
+    "points": 3,
+    "category": "B",
+    "explanation": "Pulsowanie pedału hamulca to normalny objaw działania systemu ABS. Należy trzymać pedał wciśnięty maksymalnie mocno aż do zatrzymania."
+  },
+  {
+    "id": 182,
+    "question": "W jaki sposób należy prawidłowo ustawić zagłówek fotela samochodowego?",
+    "isBasic": false,
+    "options": [
+      "Tak, aby jego środek znajdował się na wysokości oczu / potylicy",
+      "Możliwie najniżej, aby nie zasłaniał widoku do tyłu",
+      "Możliwie najwyżej, niezależnie od wzrostu kierowcy"
+    ],
+    "correctAnswer": "Tak, aby jego środek znajdował się na wysokości oczu / potylicy",
+    "points": 2,
+    "category": "B",
+    "explanation": "Prawidłowo ustawiony zagłówek chroni kręgosłup szyjny przed urazami. Powinien znajdować się na wysokości potylicy (środek zagłówka na wysokości uszu/oczu)."
+  },
+  {
+    "id": 183,
+    "question": "Jaka jest minimalna głębokość bieżnika opony letniej dopuszczająca pojazd do ruchu w Polsce?",
+    "isBasic": false,
+    "options": [
+      "1,0 mm",
+      "1,6 mm",
+      "3,0 mm"
+    ],
+    "correctAnswer": "1,6 mm",
+    "points": 2,
+    "category": "B",
+    "explanation": "Zgodnie z przepisami, minimalna dopuszczalna głębokość bieżnika opony w samochodzie osobowym wynosi 1,6 mm (o ile wskaźnik TWI nie wskazuje inaczej)."
+  },
+  {
+    "id": 184,
+    "question": "Czy kierującemu pojazdem wolno przewozić w pojeździe osobę będącą pod wpływem alkoholu lub środków odurzających?",
+    "isBasic": false,
+    "options": [
+      "Jest to całkowicie zabronione",
+      "Wolno przewozić pasażera pod wpływem alkoholu, pod warunkiem że nie jedzie on na motorowerze lub motocyklu (chyba że w wózku bocznym)",
+      "Wolno tylko na przednim siedzeniu pasażera"
+    ],
+    "correctAnswer": "Wolno przewozić pasażera pod wpływem alkoholu, pod warunkiem że nie jedzie on na motorowerze lub motocyklu (chyba że w wózku bocznym)",
+    "points": 2,
+    "category": "B",
+    "explanation": "Zabrania się przewożenia na motocyklu, motorowerze lub rowerze osoby w stanie nietrzeźwości, stanie po użyciu alkoholu lub środka działającego podobnie (nie dotyczy bocznego wózka)."
+  },
+  {
+    "id": 185,
+    "question": "Który z poniższych czynników najbardziej wydłuża czas reakcji kierowcy?",
+    "isBasic": false,
+    "options": [
+      "Używanie nowoczesnych opon zimowych",
+      "Zmęczenie, spożycie alkoholu lub korzystanie z telefonu komórkowego",
+      "Słuchanie cichej muzyki"
+    ],
+    "correctAnswer": "Zmęczenie, spożycie alkoholu lub korzystanie z telefonu komórkowego",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zmęczenie, alkohol i dekoncentracja bezpośrednio opóźniają reakcje układu nerwowego, drastycznie wydłużając czas reakcji kierującego."
+  },
+  {
+    "id": 186,
+    "question": "Co oznacza skrót 'DMC' w dowodzie rejestracyjnym pojazdu?",
+    "isBasic": false,
+    "options": [
+      "Dopuszczalna Masa Całkowita",
+      "Dopuszczalna Masa Ciągnięta",
+      "Dodatkowy Moduł Ciśnienia"
+    ],
+    "correctAnswer": "Dopuszczalna Masa Całkowita",
+    "points": 3,
+    "category": "B",
+    "explanation": "DMC oznacza Dopuszczalną Masę Całkowitą – największą masę pojazdu obciążonego osobami i ładunkiem, dopuszczoną do ruchu."
+  },
+  {
+    "id": 187,
+    "question": "Jakie światła drogowe w samochodzie osobowym mogą być włączone w dzień przy dobrej widoczności zamiast świateł mijania?",
+    "isBasic": false,
+    "options": [
+      "Światła pozycyjne",
+      "Światła do jazdy dziennej (DRL)",
+      "Światła przeciwmgłowe przednie"
+    ],
+    "correctAnswer": "Światła do jazdy dziennej (DRL)",
+    "points": 3,
+    "category": "B",
+    "explanation": "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący może używać świateł do jazdy dziennej."
+  },
+  {
+    "id": 188,
+    "question": "W jakich warunkach atmosferycznych kierujący pojazdem może używać tylnych świateł przeciwmgłowych?",
+    "isBasic": false,
+    "options": [
+      "Zawsze podczas opadów deszczu",
+      "Gdy widoczność spadnie poniżej 50 metrów",
+      "Zawsze po zmierzchu poza obszarem zabudowanym"
+    ],
+    "correctAnswer": "Gdy widoczność spadnie poniżej 50 metrów",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tylnych świateł przeciwmgłowych można używać wyłącznie wtedy, gdy zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m."
+  },
+  {
+    "id": 189,
+    "question": "O czym informuje kierowcę zapalenie się czerwonej kontrolki z symbolem akumulatora na desce rozdzielczej podczas jazdy?",
+    "isBasic": false,
+    "options": [
+      "O braku ładowania akumulatora (awaria alternatora lub paska klinowego)",
+      "O pełnym naładowaniu akumulatora",
+      "O konieczności włączenia klimatyzacji"
+    ],
+    "correctAnswer": "O braku ładowania akumulatora (awaria alternatora lub paska klinowego)",
+    "points": 3,
+    "category": "B",
+    "explanation": "Czerwona kontrolka ładowania oznacza brak generowania prądu przez alternator, co prowadzi do rozładowania akumulatora i unieruchomienia pojazdu."
+  },
+  {
+    "id": 190,
+    "question": "Co należy zrobić, gdy podczas jazdy zapali się czerwona kontrolka ciśnienia oleju silnikowego?",
+    "isBasic": false,
+    "options": [
+      "Można kontynuować jazdę do najbliższej stacji paliw",
+      "Natychmiast bezpiecznie zatrzymać pojazd, wyłączyć silnik i sprawdzić poziom oleju",
+      "Zwiększyć obroty silnika, aby podnieść ciśnienie"
+    ],
+    "correctAnswer": "Natychmiast bezpiecznie zatrzymać pojazd, wyłączyć silnik i sprawdzić poziom oleju",
+    "points": 3,
+    "category": "B",
+    "explanation": "Brak właściwego ciśnienia oleju grozi natychmiastowym i nieodwracalnym zatarciem silnika. Należy niezwłocznie wyłączyć jednostkę napędową."
+  },
+  {
+    "id": 191,
+    "question": "Czy kierujący pojazdem ma obowiązek zachować bezpieczny odstęp od wyprzedzanego pojazdu jednorzędowego (np. roweru, motocykla)? Ile wynosi ten odstęp?",
+    "isBasic": false,
+    "options": [
+      "Nie ma określonej odległości",
+      "Co najmniej 1 metr",
+      "Co najmniej 1,5 metra"
+    ],
+    "correctAnswer": "Co najmniej 1 metr",
+    "points": 3,
+    "category": "B",
+    "explanation": "Odstęp przy wyprzedzaniu roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych nie może być mniejszy niż 1 metr."
+  },
+  {
+    "id": 192,
+    "question": "Które koła samochodu z napędem na przód są bardziej podatne na poślizg podczas zbyt szybkiego ruszania na śliskiej nawierzchni?",
+    "isBasic": false,
+    "options": [
+      "Koła osi tylnej",
+      "Koła osi przedniej (napędzanej)",
+      "Wszystkie koła jednocześnie w tym samym stopniu"
+    ],
+    "correctAnswer": "Koła osi przedniej (napędzanej)",
+    "points": 2,
+    "category": "B",
+    "explanation": "Podczas przyspieszania koła osi napędzanej przenoszą moment obrotowy i to one tracą przyczepność jako pierwsze przy zbyt mocnym wciśnięciu pedału gazu."
+  },
+  {
+    "id": 193,
+    "question": "Jak należy postąpić w przypadku wystąpienia zjawiska aquaplaningu (poślizgu hydrodynamicznego)?",
+    "isBasic": false,
+    "options": [
+      "Mocno nacisnąć pedał hamulca i gwałtownie skręcić kierownicę",
+      "Unikać gwałtownych ruchów kierownicą, płynnie odjąć gaz i wcisnąć sprzęgło, czekając na odzyskanie przyczepności",
+      "Mocno przyspieszyć, aby przebić się przez warstwę wody"
+    ],
+    "correctAnswer": "Unikać gwałtownych ruchów kierownicą, płynnie odjąć gaz i wcisnąć sprzęgło, czekając na odzyskanie przyczepności",
+    "points": 3,
+    "category": "B",
+    "explanation": "Podczas aquaplaningu koła tracą kontakt z asfaltem i płyną po poduszce wodnej. Gwałtowne hamowanie czy skręcanie kół może doprowadzić do obracania pojazdu po odzyskaniu przyczepności."
+  },
+  {
+    "id": 194,
+    "question": "Co oznacza zielone światło na sygnalizatorze dla kierującego?",
+    "isBasic": false,
+    "options": [
+      "Zezwolenie na wjazd na skrzyżowanie, pod warunkiem że opuszczenie skrzyżowania jest możliwe",
+      "Bezwzględne pierwszeństwo bez patrzenia na innych uczestników",
+      "Nakaz przyspieszenia do prędkości maksymalnej"
+    ],
+    "correctAnswer": "Zezwolenie na wjazd na skrzyżowanie, pod warunkiem że opuszczenie skrzyżowania jest możliwe",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zielone światło zezwala na wjazd, ale nie zwalnia z obowiązku upewnienia się, czy skrzyżowanie jest przejezdne i czy wjazd nie zablokuje ruchu."
+  },
+  {
+    "id": 195,
+    "question": "W jakiej kolejności należy udzielać pomocy na miejscu wypadku drogowego?",
+    "isBasic": false,
+    "options": [
+      "Najpierw wezwać służby, potem zabezpieczyć miejsce, potem zająć się poszkodowanymi",
+      "Zabezpieczyć miejsce zdarzenia, ocenić stan poszkodowanych, wezwać służby ratunkowe, udzielić pierwszej pomocy",
+      "Najpierw opatrzyć rany, potem zadzwonić po pomoc"
+    ],
+    "correctAnswer": "Zabezpieczyć miejsce zdarzenia, ocenić stan poszkodowanych, wezwać służby ratunkowe, udzielić pierwszej pomocy",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zasada bezpieczeństwa ratownika jest kluczowa: najpierw zabezpieczamy miejsce (trójkąt, awaryjne), sprawdzamy stan rannych, wzywamy pomoc (112) i przystępujemy do reanimacji/pierwszej pomocy."
+  },
+  {
+    "id": 196,
+    "question": "Jak należy uciskać klatkę piersiową podczas resuscytacji krążeniowo-oddechowej (RKO) u osoby dorosłej?",
+    "isBasic": false,
+    "options": [
+      "30 uciśnięć na głębokość 5-6 cm, w tempie 100-120 uciśnięć na minutę, na przemian z 2 wdechami",
+      "15 uciśnięć i 5 wdechów",
+      "Wystarczy wykonywać same wdechy ratownicze bez uciskania"
+    ],
+    "correctAnswer": "30 uciśnięć na głębokość 5-6 cm, w tempie 100-120 uciśnięć na minutę, na przemian z 2 wdechami",
+    "points": 3,
+    "category": "B",
+    "explanation": "Standardowy algorytm BLS u dorosłych zakłada sekwencję 30 uciśnięć klatki piersiowej na głębokość 5-6 cm oraz 2 wdechy ratownicze."
+  },
+  {
+    "id": 197,
+    "question": "Czy na skrzyżowaniu równorzędnym kierujący pojazdem ma obowiązek ustąpić pierwszeństwa pojazdowi szynowemu (np. tramwajowi) nadjeżdżającemu z lewej strony?",
+    "isBasic": false,
+    "options": [
+      "Nie, ponieważ tramwaj jedzie z lewej strony",
+      "Tak, na skrzyżowaniu równorzędnym pojazd szynowy ma pierwszeństwo niezależnie od tego, z której strony nadjeżdża",
+      "Tylko wtedy, gdy motorniczy użyje sygnału dźwiękowego"
+    ],
+    "correctAnswer": "Tak, na skrzyżowaniu równorzędnym pojazd szynowy ma pierwszeństwo niezależnie od tego, z której strony nadjeżdża",
+    "points": 3,
+    "category": "B",
+    "explanation": "Na skrzyżowaniu równorzędnym tramwaj ma pierwszeństwo przed pojazdami nieszynowymi, niezależnie od kierunku, z którego nadjeżdża."
+  },
+  {
+    "id": 198,
+    "question": "Kto ma pierwszeństwo na skrzyżowaniu o ruchu okrężnym oznaczonym znakami C-12 (ruch okrężny) i A-7 (ustąp pierwszeństwa)?",
+    "isBasic": false,
+    "options": [
+      "Pojazd wjeżdżający na rondo",
+      "Pojazd znajdujący się już na rondzie",
+      "Pojazd większy gabarytowo"
+    ],
+    "correctAnswer": "Pojazd znajdujący się już na rondzie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Połączenie znaków C-12 i A-7 oznacza, że wjeżdżający na rondo musi ustąpić pierwszeństwa pojazdom poruszającym się już po rondzie."
+  },
+  {
+    "id": 199,
+    "question": "W jaki sposób oznacza się uszkodzony pojazd osobowy stojący na pasie awaryjnym autostrady?",
+    "isBasic": false,
+    "options": [
+      "Włącza się światła awaryjne i umieszcza trójkąt ostrzegawczy w odległości 100 m za pojazdem",
+      "Wystarczy włączyć tylko światła pozycyjne",
+      "Trójkąt ustawia się bezpośrednio na dachu pojazdu"
+    ],
+    "correctAnswer": "Włącza się światła awaryjne i umieszcza trójkąt ostrzegawczy w odległości 100 m za pojazdem",
+    "points": 3,
+    "category": "B",
+    "explanation": "Na autostradzie i drodze ekspresowej postój awaryjny sygnalizuje się włączeniem świateł awaryjnych oraz umieszczeniem trójkąta w odległości 100 metrów za pojazdem."
+  },
+  {
+    "id": 200,
+    "question": "Jaka jest dopuszczalna prędkość jazdy z łańcuchami przeciwślizgowymi na oponach w Polsce?",
+    "isBasic": false,
+    "options": [
+      "Przepisy nie określają limitu prędkości, zależy to od instrukcji producenta",
+      "Maksymalnie 50 km/h",
+      "Maksymalnie 30 km/h"
+    ],
+    "correctAnswer": "Przepisy nie określają limitu prędkości, zależy to od instrukcji producenta",
+    "points": 2,
+    "category": "B",
+    "explanation": "Prawo o ruchu drogowym nie narzuca sztywnego limitu prędkości podczas jazdy z łańcuchami, zaleca się jednak jazdę z prędkością dostosowaną do warunków (zwykle do 50 km/h)."
+  },
+  {
+    "id": 201,
+    "question": "Czy kierujący pojazdem zbliżający się do przejścia dla pieszych ma obowiązek zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszych znajdujących się na tym przejściu lub na nie wchodzących?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący pojazdem zbliżający się do przejścia dla pieszych ma ustawowy obowiązek zmniejszenia prędkości i ustąpienia pierwszeństwa pieszemu wchodzącemu i będącemu na przejściu."
+  },
+  {
+    "id": 202,
+    "question": "Czy zabrania się wyprzedzania pojazdu silnikowego na skrzyżowaniu (poza skrzyżowaniem o ruchu okrężnym lub z sygnalizacją świetlną)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się wyprzedzania pojazdów silnikowych na skrzyżowaniach, o ile ruch nie jest kierowany sygnalizacją świetlną lub nie jest to rondo."
+  },
+  {
+    "id": 203,
+    "question": "Czy dopuszczalne jest wyprzedzanie na zakrętach oznaczonych znakami ostrzegawczymi, jeśli pasy ruchu są oddzielone linią przerywaną P-1?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Wyprzedzanie na zakrętach oznaczonych znakami ostrzegawczymi jest zabronione, chyba że wyznaczono pasy ruchu i nie przejeżdża się na część jeezdni przeznaczoną dla przeciwnego kierunku (np. linia jednostronnie przekraczalna lub przerywana po naszej stronie)."
+  },
+  {
+    "id": 204,
+    "question": "Czy zielone światło na sygnalizatorze zezwala na wjazd na skrzyżowanie, jeśli z powodu zatoru nie ma możliwości opuszczenia go przed zmianą świateł?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierującemu zabrania się wjeżdżania na skrzyżowanie, jeżeli na nim lub za nim nie ma miejsca do kontynuowania jazdy."
+  },
+  {
+    "id": 205,
+    "question": "Czy w strefie zamieszkania pieszy ma obowiązek korzystać z chodnika lub pobocza?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "W strefie zamieszkania pieszy może korzystać z całej szerokości drogi i nie ma obowiązku poruszania się wyłącznie po chodniku."
+  },
+  {
+    "id": 206,
+    "question": "Czy wolno używać świateł drogowych (tzw. długich) w obszarze zabudowanym na nieoświetlonej drodze, jeśli nie oślepia to innych kierujących ani pieszych?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Używanie świateł drogowych jest dozwolone od zmierzchu do świtu na nieoświetlonych drogach, również w obszarze zabudowanym, pod warunkiem nieoślepiania innych uczestników ruchu."
+  },
+  {
+    "id": 207,
+    "question": "Czy wolno korzystać ze świateł przeciwmgłowych przednich podczas jazdy w dzień przy normalnej przejrzystości powietrza?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Świateł przeciwmgłowych przednich można używać tylko w warunkach zmniejszonej przejrzystości powietrza lub na drodze krętej oznaczonej odpowiednimi znakami od zmierzchu do świtu."
+  },
+  {
+    "id": 208,
+    "question": "Czy jazda bez zapiętych pasów bezpieczeństwa jest dozwolona dla kobiety w widocznej ciąży?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Ustawa Prawo o ruchu drogowym zwalnia kobiety w widocznej ciąży z obowiązku korzystania z pasów bezpieczeństwa."
+  },
+  {
+    "id": 209,
+    "question": "Czy kierowca posiadający prawo jazdy kategorii B może kierować motocyklem o pojemności skokowej silnika do 125 cm3, jeśli posiada prawo jazdy kategorii B od co najmniej 3 lat?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierowca z prawem jazdy kategorii B od min. 3 lat może w Polsce kierować motocyklem o pojemności skokowej do 125 cm3, mocy do 11 kW i stosunku mocy do masy do 0,1 kW/kg."
+  },
+  {
+    "id": 210,
+    "question": "Czy wolno wyprzedzać pojazd uprzywilejowany na obszarze zabudowanym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się wyprzedzania pojazdu uprzywilejowanego na obszarze zabudowanym."
+  },
+  {
+    "id": 211,
+    "question": "Czy na drodze ekspresowej dwujezdniowej dopuszczalna prędkość dla samochodu osobowego wynosi 120 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Na dwujezdniowej drodze ekspresowej limit prędkości dla samochodów osobowych wynosi 120 km/h."
+  },
+  {
+    "id": 212,
+    "question": "Czy na drodze ekspresowej jednojezdniowej dopuszczalna prędkość dla samochodu osobowego wynosi 100 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Na jednojezdniowej drodze ekspresowej limit prędkości dla aut osobowych wynosi 100 km/h."
+  },
+  {
+    "id": 213,
+    "question": "Czy na autostradzie wolno holować inny pojazd samochodowy?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Holowanie na autostradzie jest zabronione, z wyjątkiem holowania przez pojazdy przeznaczone do holowania do najbliższego wyjazdu lub miejsca obsługi podróżnych."
+  },
+  {
+    "id": 214,
+    "question": "Czy cofanie na drodze ekspresowej jest zabronione?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Cofanie oraz zawracanie na drogach ekspresowych i autostradach jest bezwzględnie zabronione."
+  },
+  {
+    "id": 215,
+    "question": "Czy wolno zatrzymać pojazd na pasie awaryjnym autostrady w celu np. odpoczynku lub wykonania połączenia telefonicznego?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Na autostradzie zatrzymanie jest dozwolone wyłącznie w miejscach do tego wyznaczonych. Na pasie awaryjnym wolno stanąć tylko z powodu awarii lub uszkodzenia pojazdu."
+  },
+  {
+    "id": 216,
+    "question": "Jaka jest dopuszczalna prędkość samochodu osobowego na drodze dwujezdniowej o co najmniej dwóch pasach ruchu dla każdego kierunku, niebędącej autostradą ani drogą ekspresową?",
+    "isBasic": false,
+    "options": [
+      "100 km/h",
+      "90 km/h",
+      "110 km/h"
+    ],
+    "correctAnswer": "100 km/h",
+    "points": 2,
+    "category": "B",
+    "explanation": "Na drodze dwujezdniowej poza obszarem zabudowanym limit prędkości wynosi 100 km/h."
+  },
+  {
+    "id": 217,
+    "question": "Jaka jest dopuszczalna prędkość samochodu osobowego na zwykłej drodze jednojezdniowej poza obszarem zabudowanym w Polsce?",
+    "isBasic": false,
+    "options": [
+      "90 km/h",
+      "100 km/h",
+      "80 km/h"
+    ],
+    "correctAnswer": "90 km/h",
+    "points": 2,
+    "category": "B",
+    "explanation": "Na zwykłej drodze jednojezdniowej poza obszarem zabudowanym maksymalna prędkość wynosi 90 km/h."
+  },
+  {
+    "id": 218,
+    "question": "Czy dopuszczalna prędkość pojazdu w obszarze zabudowanym w Polsce wynosi 50 km/h przez całą dobę?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Od czerwca 2021 roku limit prędkości w obszarze zabudowanym wynosi 50 km/h przez całą dobę (zlikwidowano nocny limit 60 km/h)."
+  },
+  {
+    "id": 219,
+    "question": "Czy w strefie zamieszkania prędkość dopuszczalna pojazdu wynosi 20 km/h?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. W strefie zamieszkania prędkość dopuszczalna pojazdu to 20 km/h, a piesi mają bezwzględne pierwszeństwo."
+  },
+  {
+    "id": 220,
+    "question": "Z jaką maksymalną prędkością wolno holować pojazd silnikowy w obszarze zabudowanym?",
+    "isBasic": false,
+    "options": [
+      "30 km/h",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "correctAnswer": "30 km/h",
+    "points": 2,
+    "category": "B",
+    "explanation": "Prędkość holowania w obszarze zabudowanym nie może przekraczać 30 km/h."
+  },
+  {
+    "id": 221,
+    "question": "Czy pieszy wchodzący na przejście dla pieszych ma pierwszeństwo przed pojazdem (z wyłączeniem tramwaju)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Zgodnie z przepisami pieszy wchodzący na przejście ma pierwszeństwo przed każdym pojazdem poza tramwajem."
+  },
+  {
+    "id": 222,
+    "question": "Czy pieszy wchodzący na przejście dla pieszych ma pierwszeństwo przed nadjeżdżającym tramwajem?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Tramwaj ma pierwszeństwo przed pieszym wchodzącym na przejście. Pieszy ma pierwszeństwo przed tramwajem tylko wtedy, gdy na przejściu już się znajduje."
+  },
+  {
+    "id": 223,
+    "question": "Czy pieszy przechodzący przez jezdnię na przejściu dla pieszych ma prawo korzystać z telefonu komórkowego w sposób, który ogranicza mu obserwację sytuacji na jezdni?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Zabrania się pieszemu korzystania z telefonu lub innego urządzenia elektronicznego podczas wchodzenia lub przechodzenia przez jezdnię w sposób ograniczający obserwację drogi."
+  },
+  {
+    "id": 224,
+    "question": "Czy zbliżając się do przejścia dla pieszych, kierujący ma obowiązek zachować szczególną ostrożność?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Zbliżanie się do przejścia dla pieszych bezwzględnie wymaga od kierującego zachowania szczególnej ostrożności."
+  },
+  {
+    "id": 225,
+    "question": "Czy skręcając w drogę poprzeczną masz obowiązek ustąpić pierwszeństwa pieszemu przechodzącemu na skrzyżowaniu przez jezdnię drogi, na którą wjeżdżasz?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Skręcając w drogę poprzeczną, kierujący ma obowiązek ustąpić pierwszeństwa pieszemu przechodzącemu przez drogę poprzeczną, nawet jeśli nie ma tam wyznaczonego przejścia."
+  },
+  {
+    "id": 226,
+    "question": "Kto ma pierwszeństwo w strefie zamieszkania - pieszy czy pojazd?",
+    "isBasic": false,
+    "options": [
+      "Pieszy ma bezwzględne pierwszeństwo",
+      "Pojazd, o ile jedzie z prędkością poniżej 20 km/h",
+      "Obowiązuje zasada równego traktowania"
+    ],
+    "correctAnswer": "Pieszy ma bezwzględne pierwszeństwo",
+    "points": 3,
+    "category": "B",
+    "explanation": "W strefie zamieszkania pieszy ma pierwszeństwo przed każdym pojazdem i może poruszać się po całej szerokości drogi."
+  },
+  {
+    "id": 227,
+    "question": "Czy dziecko w wieku do 7 lat może korzystać z drogi publicznej bez opieki osoby, która osiągnęła wiek co najmniej 10 lat?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. Dziecko w wieku do 7 lat może korzystać z drogi tylko pod opieką osoby, która ma co najmniej 10 lat (nie dotyczy strefy zamieszkania)."
+  },
+  {
+    "id": 228,
+    "question": "Czy kierujący pojazdem przejeżdżając przez chodnik lub drogę dla pieszych ma obowiązek ustąpić pierwszeństwa pieszemu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Przy przejeżdżaniu przez chodnik, drogę dla pieszych lub strefę pieszą kierujący ma obowiązek jechać powoli i ustąpić pierwszeństwa pieszemu."
+  },
+  {
+    "id": 229,
+    "question": "Czy pieszy poruszający się po poboczu drogi poza obszarem zabudowanym po zmierzchu ma obowiązek używać elementów odblaskowych?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Pieszy poruszający się po drodze po zmierzchu poza obszarem zabudowanym musi używać elementów odblaskowych w sposób widoczny dla innych uczestników ruchu."
+  },
+  {
+    "id": 230,
+    "question": "Po której stronie drogi jednojezdniowej ma obowiązek iść pieszy poza obszarem zabudowanym, jeżeli nie ma chodnika ani pobocza?",
+    "isBasic": false,
+    "options": [
+      "Po lewej stronie, twarzą do nadjeżdżających pojazdów",
+      "Po prawej stronie, zgodnie z kierunkiem ruchu",
+      "Po dowolnej stronie drogi"
+    ],
+    "correctAnswer": "Po lewej stronie, twarzą do nadjeżdżających pojazdów",
+    "points": 3,
+    "category": "B",
+    "explanation": "Pieszy idący poboczem lub jezdnią jest obowiązany iść lewą stroną drogi, by widzieć nadjeżdżające pojazdy i móc zareagować."
+  },
+  {
+    "id": 231,
+    "question": "Czy zbliżając się do skrzyżowania masz obowiązek zachować szczególną ostrożność?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Prawo o ruchu drogowym nakłada na kierującego zbliżającego się do skrzyżowania bezwzględny obowiązek zachowania szczególnej ostrożności."
+  },
+  {
+    "id": 232,
+    "question": "Czy rondo (skrzyżowanie o ruchu okrężnym) oznaczone samym znakiem C-12 daje pierwszeństwo pojazdom znajdującym się na rondzie przed wjeżdżającymi?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Sam znak C-12 (ruch okrężny) bez znaku A-7 oznacza skrzyżowanie równorzędne. Pierwszeństwo mają wtedy wjeżdżający na rondo (nadjeżdżający z prawej strony)."
+  },
+  {
+    "id": 233,
+    "question": "Kto ma pierwszeństwo na skrzyżowaniu równorzędnym, jeśli skręcasz w lewo, a pojazd z przeciwka jedzie prosto?",
+    "isBasic": false,
+    "options": [
+      "Pojazd jadący prosto z przeciwka",
+      "Ty skręcając w lewo",
+      "Obaj kierowcy mają równe prawa, decyduje gest ręką"
+    ],
+    "correctAnswer": "Pojazd jadący prosto z przeciwka",
+    "points": 3,
+    "category": "B",
+    "explanation": "Skręcając w lewo na skrzyżowaniu, musisz ustąpić pierwszeństwa pojazdom jadącym z naprzeciwka prosto lub skręcającym w prawo."
+  },
+  {
+    "id": 234,
+    "question": "Czy pojazd uprzywilejowany wysyłający sygnały świetlne i dźwiękowe ma zawsze bezwzględne pierwszeństwo, nawet przed sygnałami policjanta kierującego ruchem?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Sygnały i polecenia dawane przez osobę kierującą ruchem (np. policjanta) mają najwyższą ważność i są nadrzędne wobec sygnałów pojazdu uprzywilejowanego."
+  },
+  {
+    "id": 235,
+    "question": "Jaka jest kolejność ważności norm na drodze (od najwyższej)?",
+    "isBasic": false,
+    "options": [
+      "Policjant, sygnalizacja świetlna, znaki drogowe, przepisy ogólne",
+      "Sygnalizacja świetlna, policjant, znaki, przepisy ogólne",
+      "Znaki, sygnalizacja, policjant, przepisy ogólne"
+    ],
+    "correctAnswer": "Policjant, sygnalizacja świetlna, znaki drogowe, przepisy ogólne",
+    "points": 3,
+    "category": "B",
+    "explanation": "Polecenia policjanta są najwyższe. Potem sygnalizacja świetlna, następnie znaki drogowe, a na końcu ogólne przepisy prawa drogowego."
+  },
+  {
+    "id": 236,
+    "question": "Czy zielona strzałka do warunkowego skrętu w prawo świecąca się razem z czerwonym światłem nakłada na Ciebie obowiązek zatrzymania się przed linią zatrzymania?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Przed wjazdem za sygnalizator z świecącą się zieloną strzałką warunkową masz bezwzględny obowiązek zatrzymania pojazdu przed sygnalizatorem lub linią zatrzymania."
+  },
+  {
+    "id": 237,
+    "question": "Czy sygnał zielony na sygnalizatorze kierunkowym S-2 (ze strzałką w lewo lub w prawo) gwarantuje bezkolizyjny przejazd?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Sygnalizator S-2 to strzałka warunkowa na czerwonym świetle. Sygnalizator kierunkowy bezkolizyjny to S-3 (gdzie zielona strzałka oznacza brak kolizji na naszej trasie)."
+  },
+  {
+    "id": 238,
+    "question": "Czy kierującemu zabrania się wjeżdżania na skrzyżowanie, jeżeli na skrzyżowaniu lub za nim nie ma miejsca do kontynuowania jazdy?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Zabrania się wjeżdżania na skrzyżowanie, jeśli zablokuje to ruch na skrzyżowaniu lub przejście dla pieszych."
+  },
+  {
+    "id": 239,
+    "question": "Kto ma pierwszeństwo na skrzyżowaniu z pierwszeństwem łamanym oznaczonym tabliczką T-6a, jeżeli oba pojazdy znajdują się na drogach z pierwszeństwem?",
+    "isBasic": false,
+    "options": [
+      "Pojazd nadjeżdżający z prawej strony (zasada prawej ręki)",
+      "Pojazd jadący prosto",
+      "Pojazd, który jedzie drogą o lepszej nawierzchni"
+    ],
+    "correctAnswer": "Pojazd nadjeżdżający z prawej strony (zasada prazasada prawej ręki)",
+    "points": 3,
+    "category": "B",
+    "explanation": "Gdy dwa pojazdy spotykają się na drogach o równorzędnym statusie (np. oba na drodze z pierwszeństwem), stosuje się ogólną zasadę prawej ręki."
+  },
+  {
+    "id": 240,
+    "question": "Czy pojazd szynowy (tramwaj) wyjeżdżający z pętli na drogę ma pierwszeństwo przed innymi pojazdami?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Pojazd włączający się do ruchu (a wyjeżdżanie z pętli tramwajowej na drogę to włączanie się do ruchu) musi ustąpić pierwszeństwa wszystkim uczestnikom ruchu."
+  },
+  {
+    "id": 241,
+    "question": "Czy wyjazd z drogi wewnętrznej na drogę publiczną jest włączaniem się do ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Wyjeżdżanie z drogi wewnętrznej, strefy zamieszkania, obiektu przydrożnego czy stacji paliw to włączanie się do ruchu i wymaga ustąpienia pierwszeństwa wszystkim pojazdom na drodze."
+  },
+  {
+    "id": 242,
+    "question": "Czy włączając się do ruchu masz obowiązek zachować szczególną ostrożność?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Włączanie się do ruchu nakłada obowiązek zachowania szczególnej ostrożności oraz ustąpienia pierwszeństwa innym pojazdom lub uczestnikom ruchu."
+  },
+  {
+    "id": 243,
+    "question": "Kto ma pierwszeństwo podczas zmiany pasa ruchu - pojazd zmieniający pas czy pojazd jadący swoim pasem ruchu?",
+    "isBasic": false,
+    "options": [
+      "Pojazd jadący swoim pasem ruchu",
+      "Pojazd, który zmienia pas ruchu",
+      "Pojazd większy gabarytowo"
+    ],
+    "correctAnswer": "Pojazd jadący swoim pasem ruchu",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierujący pojazdem, który zmienia pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie, na który zamierza wjechać."
+  },
+  {
+    "id": 244,
+    "question": "Gdy dwa pojazdy z różnych pasów ruchu zamierzają jednocześnie wjechać na środkowy pas ruchu, który z nich ma pierwszeństwo?",
+    "isBasic": false,
+    "options": [
+      "Pojazd wjeżdżający z prawej strony",
+      "Pojazd wjeżdżający z lewej strony",
+      "Pojazd o wyższej prędkości"
+    ],
+    "correctAnswer": "Pojazd wjeżdżający z prawej strony",
+    "points": 3,
+    "category": "B",
+    "explanation": "W przypadku jednoczesnego wjeżdżania na ten sam pas ruchu z lewej i prawej strony, pierwszeństwo ma pojazd wjeżdżający z prawej strony."
+  },
+  {
+    "id": 245,
+    "question": "Czy kierujący pojazdem ma obowiązek ułatwić przejazd pojazdowi uprzywilejowanemu poprzez usunięcie się z drogi, a w razie potrzeby zatrzymanie się?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Każdy uczestnik ruchu ma ustawowy obowiązek ułatwienia przejazdu pojazdowi uprzywilejowanemu, w tym poprzez utworzenie 'korytarza życia'."
+  },
+  {
+    "id": 246,
+    "question": "Czy wolno wyprzedzać na przejściu dla pieszych lub bezpośrednio przed nim na skrzyżowaniu z sygnalizacją świetlną?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Zakaz wyprzedzania na przejściu lub bezpośrednio przed nim nie dotyczy przejść, na których ruch jest kierowany sygnalizacją świetlną."
+  },
+  {
+    "id": 247,
+    "question": "Czy wolno wyprzedzać z prawej strony na drodze jednokierunkowej w obszarze zabudowanym o wyznaczonych pasach ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Wyprzedzanie z prawej strony na drodze jednokierunkowej o wyznaczonych pasach ruchu jest dopuszczalne zarówno w obszarze zabudowanym, jak i poza nim."
+  },
+  {
+    "id": 248,
+    "question": "Czy wolno wyprzedzać z prawej strony na drodze dwukierunkowej poza obszarem zabudowanym o wyznaczonych dwóch pasach ruchu w tym samym kierunku?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Poza obszarem zabudowanym na drodze dwukierunkowej wyprzedzanie z prawej strony jest dopuszczalne, jeżeli jezdnia ma co najmniej 3 pasy ruchu (w obszarze zabudowanym min. 2) przeznaczone do jazdy w tym samym kierunku."
+  },
+  {
+    "id": 249,
+    "question": "Czy zabrania się wyprzedzania pojazdu silnikowego na zakręcie oznaczonym znakami ostrzegawczymi?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Wyprzedzanie pojazdów silnikowych na zakrętach oznaczonych znakami ostrzegawczymi jest zabronione, chyba że wyprzedzanie odbywa się bez najeżdżania na linię jednostronnie przekraczalną lub ciągłą oddzielającą kierunki przeciwne."
+  },
+  {
+    "id": 250,
+    "question": "Czy wolno wyprzedzać pojazd uprzywilejowany poza obszarem zabudowanym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Wyprzedzanie pojazdu uprzywilejowanego jest zabronione wyłącznie na obszarze zabudowanym."
+  },
+  {
+    "id": 251,
+    "question": "Co to jest omijanie?",
+    "isBasic": false,
+    "options": [
+      "Przejeżdżanie obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody",
+      "Przejeżdżanie obok pojazdu poruszającego się w tym samym kierunku",
+      "Przejeżdżanie obok pojazdu poruszającego się w przeciwnym kierunku"
+    ],
+    "correctAnswer": "Przejeżdżanie obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody",
+    "points": 2,
+    "category": "B",
+    "explanation": "Omijanie to przejeżdżanie obok stojącego pojazdu lub przeszkody. Wyprzedzanie dotyczy pojazdów w ruchu jadących w tym samym kierunku, a wymijanie to przejeżdżanie obok pojazdu jadącego z naprzeciwka."
+  },
+  {
+    "id": 252,
+    "question": "Czy podczas omijania pojazdu, który zatrzymał się w celu ustąpienia pierwszeństwa pieszemu na przejściu, popełniasz poważne wykroczenie drogowe?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Omijanie pojazdu, który zatrzymał się przed przejściem w celu ustąpienia pierwszeństwa pieszemu, jest bezwzględnie zabronione i stwarza ogromne zagrożenie dla życia pieszego."
+  },
+  {
+    "id": 253,
+    "question": "Jaki minimalny odstęp należy zachować przy wyprzedzaniu roweru, wózka rowerowego, motoroweru lub motocykla?",
+    "isBasic": false,
+    "options": [
+      "1 metr",
+      "0,5 metra",
+      "1,5 metra"
+    ],
+    "correctAnswer": "1 metr",
+    "points": 2,
+    "category": "B",
+    "explanation": "Przy wyprzedzaniu roweru, motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 metr."
+  },
+  {
+    "id": 254,
+    "question": "Czy wyprzedzając kolumnę pieszych masz obowiązek zachować odstęp co najmniej 1 metra?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Zgodnie z ustawą odstęp od wyprzedzanej kolumny pieszych, roweru, motoroweru lub motocykla musi wynosić minimum 1 metr."
+  },
+  {
+    "id": 255,
+    "question": "Czy kierujący wyprzedzanym pojazdem ma prawo zwiększać prędkość w czasie wyprzedzania go przez inny pojazd?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Kierującemu pojazdem wyprzedzanym zabrania się zwiększania prędkości w czasie wyprzedzania i bezpośrednio po nim."
+  },
+  {
+    "id": 256,
+    "question": "Czy wyprzedzanie na skrzyżowaniu o ruchu okrężnym (rondzie) jest dozwolone?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Wyprzedzanie na skrzyżowaniach o ruchu okrężnym jest w pełni dozwolone."
+  },
+  {
+    "id": 257,
+    "question": "Czy dopuszczalne jest wyprzedzanie pojazdu na skrzyżowaniu, na którym ruch jest kierowany sygnalizacją świetlną?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną jest dopuszczalne pod warunkiem zachowania szczególnej ostrożności."
+  },
+  {
+    "id": 258,
+    "question": "Czy wolno wyprzedzać pojazd uprzywilejowany na skrzyżowaniu w obszarze zabudowanym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Wyprzedzanie pojazdu uprzywilejowanego na obszarze zabudowanym jest bezwzględnie zabronione (niezależnie czy to skrzyżowanie, czy zwykła droga)."
+  },
+  {
+    "id": 259,
+    "question": "Czy zbliżając się do wierzchołka wzniesienia wolno wyprzedzać pojazd nieszynowy z prawej strony?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. Wyprzedzanie przy zbliżaniu się do wierzchołka wzniesienia jest zabronione, chyba że droga jest jednokierunkowa lub ma wyznaczone pasy ruchu i nie przejeżdża się na pas dla ruchu przeciwnego."
+  },
+  {
+    "id": 260,
+    "question": "Czy wyprzedzanie pojazdu uprzywilejowanego jadącego z prędkością 40 km/h poza obszarem zabudowanym jest dozwolone?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Poza obszarem zabudowanym wyprzedzanie pojazdu uprzywilejowanego jest dozwolone pod warunkiem zachowania bezpiecznego odstępu i ostrożności."
+  },
+  {
+    "id": 261,
+    "question": "Czy droga zatrzymania pojazdu składa się z drogi reakcji kierowcy oraz drogi hamowania pojazdu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Całkowita droga zatrzymania to odległość przebyta od momentu zauważenia przeszkody (reakcja + czas zadziałania hamulców) do całkowitego stopu (droga hamowania)."
+  },
+  {
+    "id": 262,
+    "question": "O ile wzrośnie energia kinetyczna pojazdu (a tym samym potencjalna droga hamowania), jeżeli dwukrotnie zwiększysz prędkość jazdy?",
+    "isBasic": false,
+    "options": [
+      "Wzrośnie czterokrotnie",
+      "Wzrośnie dwukrotnie",
+      "Wzrośnie ośmiokrotnie"
+    ],
+    "correctAnswer": "Wzrośnie czterokrotnie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Energia kinetyczna zależy od kwadratu prędkości (Ek = mv^2 / 2). Dwukrotny wzrost prędkości powoduje czterokrotny wzrost energii kinetycznej i drastyczne wydłużenie drogi hamowania."
+  },
+  {
+    "id": 263,
+    "question": "Czy używanie systemu ABS podczas nagłego hamowania pozwala na skrócenie drogi hamowania na każdej nawierzchni, np. na luźnym szutrze lub głębokim śniegu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. Głównym zadaniem ABS jest utrzymanie sterowności pojazdu (możliwości ominięcia przeszkody) podczas hamowania. Na luźnych nawierzchniach (szuter, śnieg) ABS może nawet wydłużyć drogę hamowania."
+  },
+  {
+    "id": 264,
+    "question": "Jak należy prawidłowo zachować się w przypadku poślizgu nadsterownego (zarzucenie tyłu pojazdu)?",
+    "isBasic": false,
+    "options": [
+      "Wytracić prędkość, wykonać kontrę kierownicą w stronę, w którą ucieka tył pojazdu",
+      "Gwałtownie nacisnąć hamulec roboczy do oporu",
+      "Skręcić koła mocno w stronę przeciwną do uciekającego tyłu"
+    ],
+    "correctAnswer": "Wytracić prędkość, wykonać kontrę kierownicą w stronę, w którą ucieka tył pojazdu",
+    "points": 2,
+    "category": "B",
+    "explanation": "Poślizg nadsterowny koryguje się poprzez wykonanie tzw. kontry, czyli skierowanie kół w tę samą stronę, w którą ucieka tył pojazdu, unikając gwałtownego hamowania."
+  },
+  {
+    "id": 265,
+    "question": "Co oznacza zjawisko aquaplaningu (akwaplanacji)?",
+    "isBasic": false,
+    "options": [
+      "Utratę przyczepności opony z powodu powstania klina wodnego między oponą a jezdnią",
+      "Przegrzanie tarcz hamulcowych pod wpływem kontaktu z wodą",
+      "Zamarzanie wody w przewodach hamulcowych podczas zimy"
+    ],
+    "correctAnswer": "Utratę przyczepności opony z powodu powstania klina wodnego między oponą a jezdnią",
+    "points": 3,
+    "category": "B",
+    "explanation": "Aquaplaning to utrata kontaktu opony z nawierzchnią spowodowana zalegającą wodą, której opona nie nadąża odprowadzać, co skutkuje brakiem kontroli nad pojazdem."
+  },
+  {
+    "id": 266,
+    "question": "Czy jazda na zbyt niskim ciśnieniu w oponach wpływa na zwiększenie zużycia paliwa oraz pogorszenie stabilności pojazdu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Zbyt niskie ciśnienie zwiększa opór toczenia (większe spalanie) oraz powoduje 'pływanie' pojazdu w zakrętach i szybsze niszczenie opon."
+  },
+  {
+    "id": 267,
+    "question": "Czy hamowanie silnikiem (redukcja biegów bez wciskania sprzęgła przez dłuższy czas) sprzyja oszczędzaniu paliwa w nowoczesnych silnikach?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Podczas hamowania silnikiem nowoczesne komputery całkowicie odcinają dopływ paliwa do cylindrów (spalanie wynosi 0,0 l/100km), co jest elementem ekojazdy."
+  },
+  {
+    "id": 268,
+    "question": "Jakie światła należy włączyć w tunelu oznaczonym znakiem D-37 o długości powyżej 500m przy dobrej przejrzystości powietrza?",
+    "isBasic": false,
+    "options": [
+      "Światła mijania",
+      "Światła do jazdy dziennej",
+      "Światła drogowe"
+    ],
+    "correctAnswer": "Światła mijania",
+    "points": 3,
+    "category": "B",
+    "explanation": "W tunelu kierujący pojazdem ma obowiązek używać świateł mijania. Światła do jazdy dziennej są niewystarczające i zabronione w tunelach."
+  },
+  {
+    "id": 269,
+    "question": "Czy podczas jazdy w warunkach gęstej mgły wolno używać tylnego światła przeciwmgłowego, gdy widoczność wynosi 40 metrów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Tylnego światła przeciwmgłowego można używać, jeżeli widoczność spadnie poniżej 50 metrów. W razie poprawy widoczności należy je niezwłocznie wyłączyć."
+  },
+  {
+    "id": 270,
+    "question": "Czy w pojeździe wyposażonym w poduszkę powietrzną dla pasażera można przewozić dziecko w foteliku tyłem do kierunku jazdy na przednim siedzeniu, gdy poduszka jest aktywna?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Zabrania się przewożenia dziecka w foteliku tyłem do kierunku jazdy na przednim siedzeniu przy aktywnej poduszce powietrznej pasażera ze względu na ryzyko śmierci lub ciężkich obrażeń dziecka."
+  },
+  {
+    "id": 271,
+    "question": "Z jaką minimalną głębokością bieżnika opon letnich wolno poruszać się pojazdem w Polsce, jeżeli producent nie określił wskaźnika zużycia TWI?",
+    "isBasic": false,
+    "options": [
+      "1,6 mm",
+      "1,0 mm",
+      "2,0 mm"
+    ],
+    "correctAnswer": "1,6 mm",
+    "points": 2,
+    "category": "B",
+    "explanation": "Zgodnie z przepisami, minimalna wysokość bieżnika opony w Polsce wynosi 1,6 mm (chyba że opona posiada wskaźnik zużycia TWI wskazujący na potrzebę wcześniejszej wymiany)."
+  },
+  {
+    "id": 272,
+    "question": "Czy stosowanie tempomatu na autostradzie podczas płynnej jazdy sprzyja zmniejszeniu zużycia paliwa?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Tempomat utrzymuje stałą prędkość, co eliminuje niepotrzebne mikro-przyspieszenia i mikro-opóźnienia, optymalizując zużycie paliwa."
+  },
+  {
+    "id": 273,
+    "question": "Jaki wpływ na drogę hamowania ma zablokowanie kół w pojeździe bez systemu ABS?",
+    "isBasic": false,
+    "options": [
+      "Wydłuża drogę hamowania i odbiera sterowność",
+      "Zawsze skraca drogę hamowania",
+      "Zwiększa sterowność i skraca drogę hamowania"
+    ],
+    "correctAnswer": "Wydłuża drogę hamowania i odbiera sterowność",
+    "points": 2,
+    "category": "B",
+    "explanation": "Zablokowanie kół powoduje przejście tarcia tocznego w tarcie ślizgowe (które ma mniejszy współczynnik przyczepności), co wydłuża drogę hamowania oraz uniemożliwia zmianę kierunku jazdy."
+  },
+  {
+    "id": 274,
+    "question": "Czy nagłe ostre hamowanie w zakręcie na śliskiej nawierzchni może doprowadzić do utraty stateczności pojazdu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Nagłe hamowanie w zakręcie mocno dociąża przednią oś i odciąża tylną, co sprzyja poślizgowi nadsterownemu i obróceniu pojazdu."
+  },
+  {
+    "id": 275,
+    "question": "Co należy zrobić, aby zapobiec parowaniu szyb wewnątrz pojazdu podczas deszczu?",
+    "isBasic": false,
+    "options": [
+      "Uruchomić klimatyzację i nawiew na szyby",
+      "Zamknąć szczelnie wszystkie wloty powietrza i wyłączyć wentylator",
+      "Włączyć podgrzewanie tylnej szyby i nie otwierać nawiewów"
+    ],
+    "correctAnswer": "Uruchomić klimatyzację i nawiew na szyby",
+    "points": 2,
+    "category": "B",
+    "explanation": "Klimatyzacja skutecznie osusza powietrze wewnątrz kabiny, co w połączeniu z mocnym nawiewem najszybciej usuwa parę z szyb."
+  },
+  {
+    "id": 276,
+    "question": "Czy świadek wypadku drogowego ma prawny obowiązek udzielenia pomocy ofiarom wypadku?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Art. 162 Kodeksu Karnego nakłada obowiązek udzielenia pomocy osobie znajdującej się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia albo ciężkiego uszczerbku na zdrowiu."
+  },
+  {
+    "id": 277,
+    "question": "Jaki jest numer alarmowy z telefonu komórkowego obowiązujący w całej Unii Europejskiej?",
+    "isBasic": true,
+    "options": [
+      "112",
+      "997",
+      "998"
+    ],
+    "correctAnswer": "112",
+    "points": 3,
+    "category": "B",
+    "explanation": "Numer 112 to jednolity ogólnoeuropejski numer alarmowy używany do powiadamiania o wszelkich zagrożeniach."
+  },
+  {
+    "id": 278,
+    "question": "Jaki jest prawidłowy stosunek uciśnięć klatki piersiowej do wdechów ratowniczych u osoby dorosłej w resuscytacji (RKO)?",
+    "isBasic": false,
+    "options": [
+      "30 uciśnięć do 2 wdechów",
+      "15 uciśnięć do 2 wdechów",
+      "30 uciśnięć do 5 wdechów"
+    ],
+    "correctAnswer": "30 uciśnięć do 2 wdechów",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zalecany standard u dorosłych to 30 uciśnięć klatki piersiowej i 2 wdechy ratownicze."
+  },
+  {
+    "id": 279,
+    "question": "Czy w pierwszej kolejności podczas udzielania pierwszej pomocy należy zadbać o własne bezpieczeństwo?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. 'Martwy ratownik to zły ratownik'. Bezpieczeństwo własne, pomocników i miejsca zdarzenia jest absolutnym priorytetem."
+  },
+  {
+    "id": 280,
+    "question": "Jak należy postąpić z nieprzytomnym poszkodowanym, który oddycha prawidłowo?",
+    "isBasic": false,
+    "options": [
+      "Ułożyć w pozycji bocznej ustalonej (bezpiecznej)",
+      "Pozostawić na plecach i unieść nogi do góry",
+      "Ułożyć na brzuchu z głową skręconą w bok"
+    ],
+    "correctAnswer": "Ułożyć w pozycji bocznej ustalonej (bezpiecznej)",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nieprzytomnego oddychającego poszkodowanego układamy w pozycji bocznej ustalonej, aby zabezpieczyć drogi oddechowe przed zadławieniem językiem lub wymiocinami."
+  },
+  {
+    "id": 281,
+    "question": "Czy wolno wyciągać ofiarę z rozbitego samochodu, jeśli nie ma zagrożenia pożarem, wybuchem ani nie zachodzi potrzeba reanimacji?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Jeżeli ofiara jest bezpieczna, oddycha i nie ma bezpośrednich zagrożeń zewnętrznych (ogień), należy pozostawić ją w pojeździe, stabilizując kręgosłup szyjny i czekając na straż pożarną i pogotowie."
+  },
+  {
+    "id": 282,
+    "question": "Gdzie należy ucisnąć klatkę piersiową podczas wykonywania resuscytacji u dorosłego?",
+    "isBasic": false,
+    "options": [
+      "Na środku klatki piersiowej (w dolnej połowie mostka)",
+      "Po lewej stronie klatki piersiowej w okolicy serca",
+      "W dolnej krawędzi łuku żebrowego"
+    ],
+    "correctAnswer": "Na środku klatki piersiowej (w dolnej połowie mostka)",
+    "points": 3,
+    "category": "B",
+    "explanation": "Klatkę piersiową uciska się dokładnie na środku klatki piersiowej (w dolnej połowie mostka), a nie po lewej stronie."
+  },
+  {
+    "id": 283,
+    "question": "Czy u każdego poszkodowanego w wypadku drogowym, który jest przytomny, należy niezwłocznie zdjąć kask ochronny (np. u motocyklisty)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. Kask motocykliście zdejmujemy tylko wtedy, gdy poszkodowany jest nieprzytomny i nie oddycha (konieczność RKO) lub gdy kask utrudnia oddychanie. U przytomnego stabilizujemy kask na głowie i czekamy na medyków."
+  },
+  {
+    "id": 284,
+    "question": "Jak najszybciej sprawdzić, czy nieprzytomny poszkodowany oddycha?",
+    "isBasic": false,
+    "options": [
+      "Udrożnić drogi oddechowe i przez 10 sekund słuchać, wyczuwać i patrzeć na ruchy klatki piersiowej",
+      "Przystawić lusterko do ust poszkodowanego",
+      "Sprawdzić puls na tętnicy szyjnej"
+    ],
+    "correctAnswer": "Udrożnić drogi oddechowe i przez 10 sekund słuchać, wyczuwać i patrzeć na ruchy klatki piersiowej",
+    "points": 3,
+    "category": "B",
+    "explanation": "Najpewniejszą metodą jest udrożnienie dróg oddechowych (odchylenie głowy w tył i uniesienie żuchwy) i ocena trzema zmysłami (wzrok, słuch, dotyk) przez pełne 10 sekund."
+  },
+  {
+    "id": 285,
+    "question": "Czy apteczka samochodowa w Polsce jest elementem obowiązkowego wyposażenia samochodu osobowego?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. W świetle polskich przepisów apteczka nie jest obowiązkowa w samochodzie osobowym (chyba że to taksówka, autobus lub pojazd do nauki jazdy). Jednak jej posiadanie jest wysoce zalecane."
+  },
+  {
+    "id": 286,
+    "question": "Co jest obowiązkowym wyposażeniem samochodu osobowego zarejestrowanego w Polsce?",
+    "isBasic": false,
+    "options": [
+      "Trójkąt ostrzegawczy ze znakiem homologacji oraz gaśnica ABC o pojemności min. 1kg",
+      "Apteczka, koło zapasowe i linka holownicza",
+      "Kamizelka odblaskowa, zestaw narzędzi i gaśnica"
+    ],
+    "correctAnswer": "Trójkąt ostrzegawczy ze znakiem homologacji oraz gaśnica ABC o pojemności min. 1kg",
+    "points": 3,
+    "category": "B",
+    "explanation": "Jedyne obowiązkowe elementy wyposażenia samochodu osobowego w Polsce to homologowany trójkąt ostrzegawczy oraz sprawna gaśnica."
+  },
+  {
+    "id": 287,
+    "question": "Czy gaśnica samochodowa musi być umieszczona w miejscu łatwo dostępnym dla kierowcy?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Przepisy wymagają, aby gaśnica znajdowała się w miejscu łatwo dostępnym, tak by w razie pożaru można było z niej natychmiast skorzystać."
+  },
+  {
+    "id": 288,
+    "question": "Czy w przypadku braku oddechu u niemowlęcia reanimację zaczynamy od wykonania 5 wdechów ratowniczych?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. U dzieci i niemowląt (z racji tego, że najczęstszą przyczyną zatrzymania krążenia jest niedotlenienie) RKO zaczyna się od 5 wdechów ratowniczych."
+  },
+  {
+    "id": 289,
+    "question": "Jak należy zabezpieczyć miejsce kolizji (stłuczki) w obszarze zabudowanym?",
+    "isBasic": false,
+    "options": [
+      "Włączyć światła awaryjne i umieścić trójkąt bezpośrednio za pojazdem lub na nim (wysokość max. 1m)",
+      "Ustawić trójkąt w odległości 30-50m za pojazdem",
+      "Trójkąt jest niepotrzebny, wystarczą światła pozycyjne"
+    ],
+    "correctAnswer": "Włączyć światła awaryjne i umieścić trójkąt bezpośrednio za pojazdem lub na nim (wysokość max. 1m)",
+    "points": 3,
+    "category": "B",
+    "explanation": "W obszarze zabudowanym postój uszkodzonego auta sygnalizuje się włączeniem świateł awaryjnych i ustawieniem trójkąta ostrzegawczego na pojeździe lub tuż za nim."
+  },
+  {
+    "id": 290,
+    "question": "Na jaką odległość należy odsunąć trójkąt ostrzegawczy za uszkodzonym pojazdem poza obszarem zabudowanym na zwykłej drodze?",
+    "isBasic": false,
+    "options": [
+      "30 do 50 metrów",
+      "100 metrów",
+      "Bezpośrednio za pojazdem"
+    ],
+    "correctAnswer": "30 do 50 metrów",
+    "points": 3,
+    "category": "B",
+    "explanation": "Poza obszarem zabudowanym (na drogach innych niż ekspresowe i autostrady) trójkąt umieszcza się w odległości od 30 do 50 metrów za pojazdem."
+  },
+  {
+    "id": 291,
+    "question": "Czy znak pionowy B-20 (STOP) zabrania wjazdu na skrzyżowanie bez bezwzględnego uprzedniego zatrzymania pojazdu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Znak STOP nakłada bezwzględny obowiązek całkowitego zatrzymania pojazdu przed skrzyżowaniem lub linią bezwarunkowego zatrzymania."
+  },
+  {
+    "id": 292,
+    "question": "Gdzie należy zatrzymać pojazd w przypadku znaku B-20 (STOP), jeżeli na jezdni nie ma wyznaczonej linii zatrzymania P-12?",
+    "isBasic": false,
+    "options": [
+      "W miejscu, z którego kierujący ma dobrą widoczność na drogę poprzeczną",
+      "Dokładnie na wysokości pionowego znaku STOP",
+      "Przed samym skrzyżowaniem w odległości dokładnie 5 metrów"
+    ],
+    "correctAnswer": "W miejscu, z którego kierujący ma dobrą widoczność na drogę poprzeczną",
+    "points": 3,
+    "category": "B",
+    "explanation": "W razie braku wyznaczonej linii zatrzymania, należy zatrzymać się w miejscu, z którego jest optymalna widoczność na drogę z pierwszeństwem, tak by nie utrudnić ruchu."
+  },
+  {
+    "id": 293,
+    "question": "Czy znak pionowy B-2 (zakaz wjazdu) zabrania wjazdu na drogę wszelkich pojazdów, w tym również rowerów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Znak B-2 zabrania wjazdu na drogę od strony jego ustawienia wszelkich pojazdów (chyba że pod znakiem umieszczona jest tabliczka wyłączająca określone pojazdy, np. rowery)."
+  },
+  {
+    "id": 294,
+    "question": "Czy znak B-1 (zakaz ruchu w obu kierunkach) dotyczy również kolumn pieszych oraz jeźdźców?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Znak B-1 zakazuje ruchu na drodze wszelkich pojazdów, kolumn pieszych, jeźdźców i poganiaczy."
+  },
+  {
+    "id": 295,
+    "question": "Czy znak pionowy B-36 (zakaz zatrzymywania się) dopuszcza zatrzymanie pojazdu na czas do 1 minuty w celu wysadzenia pasażera?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Znak B-36 zabrania jakiegokolwiek zatrzymania pojazdu, które nie wynika z warunków ruchu. Zatrzymanie do 1 minuty dopuszcza znak B-35 (zakaz postoju)."
+  },
+  {
+    "id": 296,
+    "question": "Czy linia podwójna ciągła P-4 zabrania najeżdżania na nią oraz jej przekraczania?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Linia podwójna ciągła rozdziela kierunki ruchu i zabrania najeżdżania na nią oraz jej przekraczania przez pojazdy."
+  },
+  {
+    "id": 297,
+    "question": "Czy linia pojedyncza ciągła P-2 zabrania wyprzedzania innych pojazdów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Sama linia ciągła zabrania jej najeżdżania i przekraczania, ale nie zabrania samego wyprzedzania, o ile wyprzedzany pojazd (np. rowerzysta) porusza się tak, że wyprzedzisz go bez najechania na tę linię."
+  },
+  {
+    "id": 298,
+    "question": "Co oznacza znak poziomy P-13 (trójkąty podporządkowania narysowane na jezdni)?",
+    "isBasic": false,
+    "options": [
+      "Wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa",
+      "Oznacza zbliżanie się do progu zwalniającego",
+      "Oznacza granicę strefy płatnego parkowania"
+    ],
+    "correctAnswer": "Wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa",
+    "points": 2,
+    "category": "B",
+    "explanation": "Znak P-13 wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7 (ustąp pierwszeństwa)."
+  },
+  {
+    "id": 299,
+    "question": "Czy znak drogowy pionowy D-1 (droga z pierwszeństwem) odwołuje pierwszeństwo nadjeżdżających z prawej strony na skrzyżowaniach?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Znak D-1 oznacza, że poruszasz się drogą z pierwszeństwem i na skrzyżowaniach masz pierwszeństwo przed pojazdami na drogach podporządkowanych."
+  },
+  {
+    "id": 300,
+    "question": "Czy znak pionowy D-6 (przejście dla pieszych) nakłada na kierującego pojazdem obowiązek zmniejszenia prędkości przy zbliżaniu się do przejścia?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem D-6 jest obowiązany zmniejszyć prędkość, aby nie narazić na niebezpieczeństwo pieszych."
+  },
+  {
+    "id": 301,
+    "question": "Czy znak ostrzegawczy A-7 (ustąp pierwszeństwa) obliguje kierowcę do zatrzymania pojazdu na każdym skrzyżowaniu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Znak A-7 nakazuje ustąpienie pierwszeństwa przejazdu pojazdom na drodze poprzecznej, ale zatrzymanie pojazdu jest wymagane tylko wtedy, gdy na drodze poprzecznej poruszają się inne pojazdy. Jeśli droga jest pusta, zatrzymanie nie jest konieczne."
+  },
+  {
+    "id": 302,
+    "question": "Co oznacza znak zakazu B-33 (ograniczenie prędkości)?",
+    "isBasic": false,
+    "options": [
+      "Maksymalną dopuszczalną prędkość, z jaką wolno poruszać się za znakiem",
+      "Minimalną wymaganą prędkość na danej drodze",
+      "Zalecaną prędkość podróżną przy dobrych warunkach atmosferycznych"
+    ],
+    "correctAnswer": "Maksymalną dopuszczalną prędkość, z jaką wolno poruszać się za znakiem",
+    "points": 3,
+    "category": "B",
+    "explanation": "Znak B-33 oznacza zakaz przekraczania prędkości podanej na znaku w kilometrach na godzinę."
+  },
+  {
+    "id": 303,
+    "question": "Co odwołuje ograniczenie prędkości na drodze wprowadzone znakiem pionowym B-33?",
+    "isBasic": false,
+    "options": [
+      "Najbliższe skrzyżowanie z drogą publiczną lub znak odwołujący zakaz B-34",
+      "Kolejny łuk drogi oznaczony znakiem ostrzegawczym",
+      "Zatrzymanie pojazdu lub zmiana kierunku jazdy w obrębie posesji"
+    ],
+    "correctAnswer": "Najbliższe skrzyżowanie z drogą publiczną lub znak odwołujący zakaz B-34",
+    "points": 3,
+    "category": "B",
+    "explanation": "Ograniczenie prędkości wprowadzone znakiem zakazu obowiązuje do najbliższego skrzyżowania, do znaku odwołującego to ograniczenie lub znaku początku/końca obszaru zabudowanego."
+  },
+  {
+    "id": 304,
+    "question": "Czy znak początku obszaru zabudowanego D-42 odwołuje ograniczenie prędkości wyrażone uprzednio znakiem B-33?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Znak D-42 (obszar zabudowany) odwołuje poprzednie ograniczenia prędkości i wprowadza ogólny limit 50 km/h (chyba że pod nim lub na nim wskazano inaczej)."
+  },
+  {
+    "id": 305,
+    "question": "Czy tabliczka T-30 pod znakiem D-18 (parking) wskazuje sposób ustawienia pojazdu względem krawędzi jezdni (chodnika)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Tabliczka T-30 precyzuje, jak należy zaparkować pojazd (np. równolegle, skośnie, tyłem lub przodem, całością lub częścią pojazdu na chodniku)."
+  },
+  {
+    "id": 306,
+    "question": "Jaka jest dopuszczalna maksymalna zawartość alkoholu w organizmie kierowcy w Polsce (stężenie we krwi), powyżej której prowadzenie pojazdu jest zabronione i stanowi wykroczenie (stan po użyciu alkoholu)?",
+    "isBasic": false,
+    "options": [
+      "Od 0,2 promila do 0,5 promila",
+      "Powyżej 0,5 promila",
+      "Każda ilość powyżej 0,0 promila jest przestępstwem"
+    ],
+    "correctAnswer": "Od 0,2 promila do 0,5 promila",
+    "points": 3,
+    "category": "B",
+    "explanation": "Stan po użyciu alkoholu (wykroczenie) zachodzi przy stężeniu we krwi od 0,2 do 0,5 promila (lub od 0,1 do 0,25 mg alkoholu w 1 dm3 wydychanego powietrza). Powyżej 0,5 promila to stan nietrzeźwości (przestępstwo)."
+  },
+  {
+    "id": 307,
+    "question": "Czy prowadzenie pojazdu mechanicznego w stanie nietrzeźwości (powyżej 0,5 promila we krwi) w Polsce jest przestępstwem zagrożonym karą pozbawienia wolności?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Prowadzenie pojazdu mechanicznego w stanie nietrzeźwości (powyżej 0,5 promila) to przestępstwo z art. 178a Kodeksu Karnego, zagrożone grzywną, ograniczeniem wolności lub pozbawieniem wolności do lat 3."
+  },
+  {
+    "id": 308,
+    "question": "Czy kierując samochodem osobowym zarejestrowanym w Polsce masz obowiązek posiadać przy sobie papierowy dokument prawa jazdy?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. W Polsce zniesiono obowiązek posiadania przy sobie fizycznego blankietu krajowego prawa jazdy podczas jazdy. Dane są weryfikowane przez policję w bazie CEPiK."
+  },
+  {
+    "id": 309,
+    "question": "Czy kierujący pojazdem zarejestrowanym w Polsce ma obowiązek posiadać przy sobie dowód rejestracyjny oraz polisę ubezpieczenia OC?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Podczas kontroli drogowej w Polsce kierujący pojazdem zarejestrowanym w kraju nie musi okazywać fizycznego dowodu rejestracyjnego ani potwierdzenia OC. Wszystko jest sprawdzane elektronicznie w CEPiK."
+  },
+  {
+    "id": 310,
+    "question": "Jaki jest limit punktów karnych dla kierowcy posiadającego prawo jazdy dłużej niż rok, po przekroczeniu którego prawo jazdy zostaje zatrzymane?",
+    "isBasic": false,
+    "options": [
+      "24 punkty",
+      "20 punktów",
+      "30 punktów"
+    ],
+    "correctAnswer": "24 punkty",
+    "points": 3,
+    "category": "B",
+    "explanation": "Kierowca z prawem jazdy ponad rok może zgromadzić maksymalnie 24 punkty karne. Przekroczenie tej liczby (25 i więcej) skutkuje zatrzymaniem uprawnień."
+  },
+  {
+    "id": 311,
+    "question": "Jaki jest limit punktów karnych dla młodego kierowcy w okresie pierwszego roku od wydania po raz pierwszy prawa jazdy?",
+    "isBasic": false,
+    "options": [
+      "20 punktów",
+      "24 punkty",
+      "15 punktów"
+    ],
+    "correctAnswer": "20 punktów",
+    "points": 3,
+    "category": "B",
+    "explanation": "Dla kierowców w pierwszym roku posiadania uprawnień limit punktów karnych wynosi 20. Przekroczenie tego limitu skutkuje cofnięciem uprawnień."
+  },
+  {
+    "id": 312,
+    "question": "Czy za przekroczenie prędkości w obszarze zabudowanym o ponad 50 km/h policja zatrzymuje prawo jazdy na okres 3 miesięcy?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Przekroczenie dopuszczalnej prędkości w obszarze zabudowanym o więcej niż 50 km/h skutkuje obligatoryjnym zatrzymaniem prawa jazdy na 3 miesiące."
+  },
+  {
+    "id": 313,
+    "question": "Czy jazda bez zapiętych pasów bezpieczeństwa przez pasażera na tylnym siedzeniu zwalnia kierującego z odpowiedzialności (mandatu i punktów) za to wykroczenie?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. Kierujący pojazdem jest odpowiedzialny za upewnienie się, że wszyscy pasażerowie mają zapięte pasy. Za nieprzestrzeganie tego obowiązku ukarany może zostać zarówno pasażer, jak i kierowca."
+  },
+  {
+    "id": 314,
+    "question": "W jakim okresie od momentu wystawienia mandatu karnego kredytowanego kierujący ma obowiązek opłacić grzywnę?",
+    "isBasic": false,
+    "options": [
+      "7 dni",
+      "14 dni",
+      "30 dni"
+    ],
+    "correctAnswer": "7 dni",
+    "points": 2,
+    "category": "B",
+    "explanation": "Ukarany mandatem kredytowanym ma obowiązek uiścić kwotę mandatu w terminie 7 dni od dnia jego przyjęcia."
+  },
+  {
+    "id": 315,
+    "question": "Czy policjant ma prawo zatrzymać dowód rejestracyjny pojazdu w postaci elektronicznej (blokada w systemie CEPiK) w razie stwierdzenia złego stanu technicznego?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. W przypadku stwierdzenia, że pojazd zagraża bezpieczeństwu, porządkowi ruchu lub narusza wymagania ochrony środowiska, uprawniony organ zatrzymuje dowód rejestracyjny wirtualnie (CEPiK)."
+  },
+  {
+    "id": 316,
+    "question": "Jaki dokument potwierdza zawarcie obowiązkowego ubezpieczenia odpowiedzialności cywilnej (OC) pojazdu?",
+    "isBasic": false,
+    "options": [
+      "Polisa ubezpieczeniowa lub potwierdzenie wpłaty składki",
+      "Tylko dowód rejestracyjny pojazdu",
+      "Karta pojazdu"
+    ],
+    "correctAnswer": "Polisa ubezpieczeniowa lub potwierdzenie wpłaty składki",
+    "points": 2,
+    "category": "B",
+    "explanation": "Potwierdzeniem zawarcia umowy ubezpieczenia OC jest polisa ubezpieczeniowa wystawiona przez ubezpieczyciela bądź certyfikat ubezpieczenia."
+  },
+  {
+    "id": 317,
+    "question": "Co grozi za brak ważnego obowiązkowego ubezpieczenia OC pojazdu w Polsce?",
+    "isBasic": false,
+    "options": [
+      "Bardzo wysoka kara pieniężna nakładana przez Ubezpieczeniowy Fundusz Gwarancyjny (UFG)",
+      "Jedynie upomnienie od Policji",
+      "Naliczanie odsetek bankowych przy kolejnym ubezpieczeniu"
+    ],
+    "correctAnswer": "Bardzo wysoka kara pieniężna nakładana przez Ubezpieczeniowy Fundusz Gwarancyjny (UFG)",
+    "points": 3,
+    "category": "B",
+    "explanation": "UFG nakłada surowe kary finansowe za brak ciągłości ubezpieczenia OC pojazdu, sięgające nawet kilku tysięcy złotych za opóźnienie powyżej 14 dni."
+  },
+  {
+    "id": 318,
+    "question": "Czy w pojeździe można przewozić więcej osób, niż określa to wpis w dowodzie rejestracyjnym pojazdu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zabrania się przewożenia pojazdem liczby osób przekraczającej liczbę miejsc określoną w dowodzie rejestracyjnym pojazdu. Grozi to mandatem i zatrzymaniem prawa jazdy na 3 miesiące (przy przewożeniu o min. 3 osoby za dużo)."
+  },
+  {
+    "id": 319,
+    "question": "Czy jazda pod wpływem narkotyków lub środków odurzających jest traktowana w prawie polskim tak samo surowo jak jazda pod wpływem alkoholu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Prowadzenie pojazdu pod wpływem środków działających podobnie do alkoholu (np. narkotyków, silnych leków psychotropowych) podlega takim samym surowym sankcjom karnym jak jazda po alkoholu."
+  },
+  {
+    "id": 320,
+    "question": "Czy zmęczenie kierowcy może wydłużyć jego czas reakcji oraz negatywnie wpływać na ocenę odległości na drodze?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Silne zmęczenie spowalnia reakcje układu nerwowego, ogranicza pole widzenia, pogarsza ocenę odległości i prędkości, a w skrajnych przypadkach może doprowadzić do 'mikrosnu'."
+  },
+  {
+    "id": 321,
+    "question": "Czy na przejeździe kolejowym i bezpośrednio przed nim zabrania się wyprzedzania innych pojazdów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Prawo o ruchu drogowym bezwzględnie zabrania wyprzedzania pojazdów na przejazdach kolejowych, tramwajowych i bezpośrednio przed nimi."
+  },
+  {
+    "id": 322,
+    "question": "Czy zbliżając się do przejazdu kolejowego masz obowiązek poruszać się z taką prędkością, aby móc zatrzymać pojazd w bezpiecznym miejscu przed wjazdem szynowym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Kierujący jest zobowiązany do jazdy z prędkością umożliwiającą natychmiastowe zatrzymanie pojazdu przed przejazdem w razie zbliżania się pociągu."
+  },
+  {
+    "id": 323,
+    "question": "Czy wolno wjechać na przejazd kolejowy, jeżeli po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Podobnie jak na skrzyżowaniu, wjeżdżanie na przejazd kolejowy bez możliwości jego bezpiecznego opuszczenia jest bezwzględnie zabronione i skrajnie niebezpieczne."
+  },
+  {
+    "id": 324,
+    "question": "Czy wolno omijać zapory (półzapory) przejazdowe w czasie ich opuszczania lub gdy ich podnoszenie nie zostało całkowicie zakończone?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Zabrania się wjeżdżania na przejazd, jeżeli opuszczanie zapór zostało rozpoczęte lub ich podnoszenie nie zostało zakończone, a także gdy migają czerwone światła sygnalizatora."
+  },
+  {
+    "id": 325,
+    "question": "Czy tramwaj wyjeżdżający z zajezdni na drogę publiczną ma pierwszeństwo przed innymi uczestnikami ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Tramwaj (lub dowolny inny pojazd) wyjeżdżający z zajezdni lub obiektu przydrożnego włącza się do ruchu i musi ustąpić pierwszeństwa wszystkim pojazdom znajdującym się na drodze."
+  },
+  {
+    "id": 326,
+    "question": "Kto ma pierwszeństwo na skrzyżowaniu z pierwszeństwem łamanym, na którym tory tramwajowe przecinają drogę z pierwszeństwem - tramwaj podporządkowany czy samochód na drodze z pierwszeństwem?",
+    "isBasic": false,
+    "options": [
+      "Samochód na drodze z pierwszeństwem",
+      "Tramwaj na drodze podporządkowanej",
+      "Tramwaj ma zawsze pierwszeństwo niezależnie od znaków"
+    ],
+    "correctAnswer": "Samochód na drodze z pierwszeństwem",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tramwaj podlega znakom pierwszeństwa tak samo jak pojazdy nieszynowe. Jeśli tramwaj znajduje się na drodze podporządkowanej (oznaczonej znakiem A-7), musi ustąpić pierwszeństwa pojazdom na drodze z pierwszeństwem."
+  },
+  {
+    "id": 327,
+    "question": "Czy skręcając w prawo i przecinając drogę dla rowerów, kierujący ma obowiązek ustąpić pierwszeństwa rowerzyście jadącemu na wprost tą drogą?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Skręcając w drogę poprzeczną, kierujący pojazdem jest obowiązany ustąpić pierwszeństwa rowerzyście poruszającemu się na wprost po drodze dla rowerów lub pasie ruchu dla rowerów."
+  },
+  {
+    "id": 328,
+    "question": "Czy rowerzysta poruszający się po przejeździe dla rowerzystów ma pierwszeństwo przed nadjeżdżającym pojazdem samochodowym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Rowerzysta znajdujący się na przejeździe dla rowerzystów ma pierwszeństwo przed pojazdem samochodowym zbliżającym się do tego przejazdu."
+  },
+  {
+    "id": 329,
+    "question": "Czy kierującemu samochodem wolno wyprzedzać inny pojazd silnikowy na skrzyżowaniu o ruchu okrężnym (rondzie)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Wyprzedzanie na rondach jest w pełni dozwolone przepisami prawa o ruchu drogowym."
+  },
+  {
+    "id": 330,
+    "question": "Co oznacza znak pionowy D-40 (strefa zamieszkania)?",
+    "isBasic": false,
+    "options": [
+      "Początek strefy, w której pieszy ma pierwszeństwo, prędkość aut to max. 20 km/h, a parkowanie tylko w miejscach wyznaczonych",
+      "Obszar, na którym obowiązuje zakaz ruchu pojazdów ciężarowych",
+      "Strefę, w której pierwszeństwo mają wyłącznie pojazdy uprzywilejowane"
+    ],
+    "correctAnswer": "Początek strefy, w której pieszy ma pierwszeństwo, prędkość aut to max. 20 km/h, a parkowanie tylko w miejscach wyznaczonych",
+    "points": 3,
+    "category": "B",
+    "explanation": "Znak D-40 oznacza strefę zamieszkania. Obowiązuje tam prędkość do 20 km/h, piesi mogą korzystać z całej szerokości drogi i mają pierwszeństwo, a parkować wolno tylko w wyznaczonych miejscach."
+  },
+  {
+    "id": 331,
+    "question": "Czy wyjeżdżając ze strefy zamieszkania oznaczonej znakiem D-41 (koniec strefy) masz obowiązek ustąpić pierwszeństwa wszystkim uczestnikom ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Wyjeżdżanie ze strefy zamieszkania jest włączaniem się do ruchu, co nakłada obowiązek ustąpienia pierwszeństwa wszystkim pojazdom poruszającym się po drodze."
+  },
+  {
+    "id": 332,
+    "question": "Czy zabrania się zatrzymania pojazdu na drodze dla rowerów lub pasie ruchu dla rowerów?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Zatrzymanie oraz postój na drogach dla rowerów, pasach ruchu dla rowerów oraz śluzach rowerowych jest całkowicie zabronione."
+  },
+  {
+    "id": 333,
+    "question": "Czy kierującemu samochodem wolno ciągnąć za pojazdem osobę poruszającą się na nartach, sankach lub wrotkach (np. organizować kulig)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Ciągnięcie za pojazdem na drodze publicznej osób na sankach, nartach, łyżwach, wrotkach lub podobnych urządzeniach (np. kuligi za samochodem) jest kategorycznie zabronione."
+  },
+  {
+    "id": 334,
+    "question": "Jak zasygnalizować zamiar wykonania manewru skrętu lub zmiany pasa ruchu na drodze?",
+    "isBasic": false,
+    "options": [
+      "Włączeniem odpowiedniego kierunkowskazu z odpowiednim uprzedzeniem przed rozpoczęciem manewru",
+      "Krótkim sygnałem dźwiękowym bezpośrednio przed skrętem",
+      "Włączeniem świateł awaryjnych podczas wykonywania skrętu"
+    ],
+    "correctAnswer": "Włączeniem odpowiedniego kierunkowskazu z odpowiednim uprzedzeniem przed rozpoczęciem manewru",
+    "points": 3,
+    "category": "B",
+    "explanation": "Zamiar zmiany kierunku jazdy lub pasa ruchu należy zasygnalizować wyraźnie i zawczasu (uprzednio) za pomocą kierunkowskazów."
+  },
+  {
+    "id": 335,
+    "question": "Czy po zakończeniu manewru skrętu lub zmiany pasa ruchu masz obowiązek niezwłocznie zaprzestać sygnalizowania go kierunkowskazem?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Kierunkowskaz należy wyłączyć niezwłocznie po zakończeniu manewru, aby nie wprowadzać w błąd innych uczestników ruchu."
+  },
+  {
+    "id": 336,
+    "question": "Czy wolno zatrzymać pojazd w odległości mniejszej niż 10 metrów od przejazdu kolejowego lub tramwajowego?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Zabrania się zatrzymania pojazdu na przejazdach kolejowych, tramwajowych oraz w odległości mniejszej niż 10 metrów od nich."
+  },
+  {
+    "id": 337,
+    "question": "Czy wolno zatrzymać pojazd na skrzyżowaniu oraz w odległości mniejszej niż 10 metrów od skrzyżowania?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Przepisy zabraniają zatrzymania pojazdu na skrzyżowaniu oraz w odległości mniejszej niż 10 metrów od niego."
+  },
+  {
+    "id": 338,
+    "question": "Czy wolno zatrzymać pojazd na przejściu dla pieszych oraz w odległości mniejszej niż 10 metrów przed tym przejściem na drodze dwukierunkowej o jednym pasie ruchu?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Zatrzymanie na przejściu oraz w odległości mniejszej niż 10 metrów przed nim jest zabronione. Na drodze dwukierunkowej zakaz dotyczy również odległości 10m ZA przejściem (gdyż zasłania to pieszych wchodzących z lewej strony)."
+  },
+  {
+    "id": 339,
+    "question": "Czy wolno zatrzymać pojazd w odległości mniejszej niż 15 metrów od punktów krańcowych przystanku autobusowego oznaczonego znakiem D-15?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Zabrania się zatrzymania pojazdu w odległości mniejszej niż 15 metrów od słupka lub tablicy oznaczającej przystanek autobusowy/tramwajowy."
+  },
+  {
+    "id": 340,
+    "question": "Czy dopuszczalne jest zatrzymanie pojazdu na przejeździe dla rowerzystów lub w odległości mniejszej niż 10 metrów przed nim?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Zabrania się zatrzymania na przejeździe dla rowerzystów oraz w odległości mniejszej niż 10 metrów przed nim."
+  },
+  {
+    "id": 341,
+    "question": "Czy parkowanie pojazdu na chodniku kołami jednego boku jest dozwolone, pod warunkiem pozostawienia dla pieszych szerokości chodnika nie mniejszej niż 1,5 metra?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Parkowanie na chodniku jest dozwolone, pod warunkiem że masa własna pojazdu nie przekracza 2,5t, szerokość pozostawionego chodnika wynosi min. 1,5m i pojazd nie utrudnia ruchu pieszych."
+  },
+  {
+    "id": 342,
+    "question": "Czy dopuszczalne jest parkowanie na drodze z linią jednostronnie przekraczalną P-3 (ciągła z przerywaną po naszej stronie), jeżeli zmusi to innych do najechania na linię ciągłą?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. Zabrania się zatrzymania pojazdu na jezdni wzdłuż linii ciągłej oraz obok niej, jeżeli zmusi to innych kierujących do najeżdżania na tę linię."
+  },
+  {
+    "id": 343,
+    "question": "Czy kierujący pojazdem jest obowiązany podczas wymijania w nocy przełączyć światła drogowe na mijania, jeżeli istnieje możliwość oślepienia innego kierującego?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Obowiązek wyłączenia świateł drogowych ('długich') zachodzi zawsze, gdy istnieje ryzyko oślepienia kierujących pojazdami jadącymi z przeciwka lub pieszych."
+  },
+  {
+    "id": 344,
+    "question": "Które koła pojazdu są hamowane podczas użycia hamulca awaryjnego (ręcznego) w większości samochodów osobowych?",
+    "isBasic": false,
+    "options": [
+      "Tylko koła osi tylnej",
+      "Tylko koła osi przedniej",
+      "Wszystkie cztery koła pojazdu"
+    ],
+    "correctAnswer": "Tylko koła osi tylnej",
+    "points": 2,
+    "category": "B",
+    "explanation": "Hamulec awaryjny (ręczny) w większości pojazdów działa mechanicznie lub elektrycznie wyłącznie na koła tylnej osi."
+  },
+  {
+    "id": 345,
+    "question": "Co należy zrobić, jeżeli w trakcie jazdy zapali się czerwona kontrolka ciśnienia oleju silnikowego?",
+    "isBasic": false,
+    "options": [
+      "Zjechać w bezpieczne miejsce, wyłączyć silnik i sprawdzić poziom oleju",
+      "Kontynuować jazdę do najbliższego warsztatu bez zatrzymywania",
+      "Zwiększyć obroty silnika, aby podnieść ciśnienie oleju"
+    ],
+    "correctAnswer": "Zjechać w bezpieczne miejsce, wyłączyć silnik i sprawdzić poziom oleju",
+    "points": 3,
+    "category": "B",
+    "explanation": "Czerwona kontrolka oleju oznacza krytyczny brak ciśnienia smarowania. Kontynuowanie jazdy doprowadzi do zatarcia i całkowitego zniszczenia silnika w ciągu kilku minut."
+  },
+  {
+    "id": 346,
+    "question": "Co oznacza czerwona kontrolka układu hamulcowego (wykrzyknik w kółku)?",
+    "isBasic": false,
+    "options": [
+      "Zaciągnięty hamulec postojowy lub niski poziom płynu hamulcowego",
+      "Zużycie klocków hamulcowych przedniej osi",
+      "Awarię systemu zapobiegającego blokowaniu kół (ABS)"
+    ],
+    "correctAnswer": "Zaciągnięty hamulec postojowy lub niski poziom płynu hamulcowego",
+    "points": 3,
+    "category": "B",
+    "explanation": "Czerwona kontrolka z wykrzyknikiem sygnalizuje zaciągnięty hamulec ręczny lub niebezpiecznie niski poziom płynu hamulcowego, co stwarza ryzyko utraty hamulców."
+  },
+  {
+    "id": 347,
+    "question": "Czy płyn chłodzący w układzie chłodzenia silnika można bezpiecznie odkręcić i uzupełnić bezpośrednio po długiej, intensywnej jeździe?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Po jeździe płyn jest gorący i pod wysokim ciśnieniem. Odkręcenie korka grozi gwałtownym wytryskiem wrzącej cieczy i ciężkimi oparzeniami."
+  },
+  {
+    "id": 348,
+    "question": "Jak sprawdzić prawidłowy poziom oleju silnikowego za pomocą bagnetu pomiarowego?",
+    "isBasic": false,
+    "options": [
+      "Na zimnym silniku, gdy auto stoi na płaskiej powierzchni, wycierając uprzednio bagnet",
+      "Na uruchomionym silniku na biegu jałowym",
+      "Bezpośrednio po wyłączeniu silnika bez wycierania bagnetu"
+    ],
+    "correctAnswer": "Na zimnym silniku, gdy auto stoi na płaskiej powierzchni, wycierając uprzednio bagnet",
+    "points": 3,
+    "category": "B",
+    "explanation": "Pomiar poziomu oleju wykonuje się na wyłączonym silniku (najlepiej zimnym lub po min. 10 minutach od wyłączenia), gdy auto stoi na równym terenie."
+  },
+  {
+    "id": 349,
+    "question": "Czy przed wyruszeniem w drogę kierujący pojazdem ma obowiązek upewnić się, że tablice rejestracyjne oraz reflektory pojazdu są czyste i czytelne?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Utrzymywanie tablic rejestracyjnych i świateł w stanie czystym i zapewniającym widoczność jest ustawowym obowiązkiem każdego kierowcy."
+  },
+  {
+    "id": 350,
+    "question": "Czy używanie opon zimowych w Polsce jest obowiązkowe w okresie zimowym?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 2,
+    "category": "B",
+    "explanation": "Nie. Choć jazda na oponach zimowych zimą jest skrajnie zalecana, polskie prawo nie nakłada sztywnego obowiązku ich stosowania."
+  },
+  {
+    "id": 351,
+    "question": "Które światła mogą być używane podczas jazdy w dzień w warunkach normalnej przejrzystości powietrza zamiast świateł mijania?",
+    "isBasic": false,
+    "options": [
+      "Światła do jazdy dziennej",
+      "Światła pozycyjne",
+      "Światła drogowe o zmniejszonej mocy"
+    ],
+    "correctAnswer": "Światła do jazdy dziennej",
+    "points": 3,
+    "category": "B",
+    "explanation": "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący może używać świateł do jazdy dziennej."
+  },
+  {
+    "id": 352,
+    "question": "Czy jazda z przepaloną żarówką światła mijania w nocy jest dozwolona, o ile drugie światło działa prawidłowo?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Jazda z niesprawnym oświetleniem zewnętrznym jest zabroniona i stwarza ogromne niebezpieczeństwo (auto może być mylone z motocyklem) oraz skutkuje zatrzymaniem dowodu rejestracyjnego i mandatem."
+  },
+  {
+    "id": 353,
+    "question": "Jak należy prawidłowo ustawić zagłówek fotela kierowcy?",
+    "isBasic": false,
+    "options": [
+      "Środek zagłówka powinien znajdować się na wysokości potylicy (uszu)",
+      "Jak najniżej, tak aby podpierał kark",
+      "Maksymalnie odchylony do tyłu, by nie przeszkadzał w obserwacji"
+    ],
+    "correctAnswer": "Środek zagłówka powinien znajdować się na wysokości potylicy (uszu)",
+    "points": 2,
+    "category": "B",
+    "explanation": "Prawidłowo ustawiony zagłówek chroni kręgosłup szyjny przed złamaniem w razie uderzenia w tył pojazdu. Jego środek musi znajdować się na wysokości uszu."
+  },
+  {
+    "id": 354,
+    "question": "Czy pas bezpieczeństwa powinien przylegać płasko do ciała i przechodzić przez środek barku oraz biodra (nie przez brzuch)?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 3,
+    "category": "B",
+    "explanation": "Tak. Pas bezpieczeństwa musi być napięty, przebiegać przez środek obojczyka (bark) oraz płasko opinać biodra, by w razie kolizji zatrzymać ciało na twardych strukturach kostnych."
+  },
+  {
+    "id": 355,
+    "question": "Co oznacza skrót ESP w opisie systemów bezpieczeństwa pojazdu?",
+    "isBasic": false,
+    "options": [
+      "Elektroniczny program stabilizacji toru jazdy",
+      "System zapobiegający blokowaniu kół podczas hamowania",
+      "Układ wspomagania awaryjnego hamowania"
+    ],
+    "correctAnswer": "Elektroniczny program stabilizacji toru jazdy",
+    "points": 2,
+    "category": "B",
+    "explanation": "ESP (Electronic Stability Program) to system stabilizujący tor jazdy, który zapobiega poślizgom bocznym poprzez automatyczne przyhamowywanie odpowiednich kół."
+  },
+  {
+    "id": 356,
+    "question": "Czy kierującemu pojazdem wolno używać opon o różnej rzeźbie bieżnika na kołach tej samej osi?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Nie",
+    "points": 3,
+    "category": "B",
+    "explanation": "Nie. Opony zamontowane na tej samej osi pojazdu (np. przedniej) muszą być identyczne (ta sama marka, model, rzeźba bieżnika oraz stan zużycia)."
+  },
+  {
+    "id": 357,
+    "question": "Czy płyn do spryskiwaczy szyb należy w okresie zimowym wymienić na zimowy, aby zapobiec rozsadzeniu zbiornika i przewodów przez mróz?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Letni płyn zamarza już przy temperaturach lekko poniżej 0 stopni, co może zniszczyć pompkę, zbiornik spryskiwacza i przewody."
+  },
+  {
+    "id": 358,
+    "question": "Co oznacza skrót ABS w pojeździe?",
+    "isBasic": false,
+    "options": [
+      "System zapobiegający blokowaniu kół podczas hamowania",
+      "Automatyczną skrzynię biegów",
+      "System kontroli trakcji przy przyspieszaniu"
+    ],
+    "correctAnswer": "System zapobiegający blokowaniu kół podczas hamowania",
+    "points": 2,
+    "category": "B",
+    "explanation": "ABS (Anti-lock Braking System) zapobiega zablokowaniu kół podczas hamowania awaryjnego, co pozwala zachować kierowalność auta."
+  },
+  {
+    "id": 359,
+    "question": "Czy najechanie na krawężnik z dużą prędkością może uszkodzić wewnętrzną strukturę opony oraz rozregulować geometrię zawieszenia?",
+    "isBasic": true,
+    "options": [
+      "Tak",
+      "Nie"
+    ],
+    "correctAnswer": "Tak",
+    "points": 2,
+    "category": "B",
+    "explanation": "Tak. Uderzenie kołem o krawężnik niszczy kord opony (co grozi jej wystrzałem podczas szybkiej jazdy) oraz destabilizuje geometrię kół."
+  },
+  {
+    "id": 360,
+    "question": "Co oznacza wskaźnik zużycia opony TWI (Tread Wear Indicator)?",
+    "isBasic": false,
+    "options": [
+      "Występy w rowkach bieżnika wskazujące na osiągnięcie maksymalnego dopuszczalnego zużycia (1,6 mm)",
+      "Wskaźnik zalecanego ciśnienia w oponie",
+      "Datę produkcji opony zapisaną na jej boku"
+    ],
+    "correctAnswer": "Występy w rowkach bieżnika wskazujące na osiągnięcie maksymalnego dopuszczalnego zużycia (1,6 mm)",
+    "points": 2,
+    "category": "B",
+    "explanation": "TWI to małe zgrubienia w rowkach opony. Zrównanie się bieżnika z TWI oznacza konieczność natychmiastowej wymiany opony ze względu na jej zużycie."
+  }
+]

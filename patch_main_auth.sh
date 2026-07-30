@@ -1,0 +1,1 @@
+sed -i 's/var showRoleSelection by remember { mutableStateOf(true) }/var showRoleSelection by remember { mutableStateOf(true) }\n    var pendingRole by remember { mutableStateOf<UserRole?>(null) }\n    var showKeyAuth by remember { mutableStateOf(false) }/g' app/src/main/java/com/example/MainActivity.kt

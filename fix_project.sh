@@ -1,0 +1,56 @@
+#!/bin/bash
+
+echo "=== Tworzenie struktury katalogu dla GitHub Actions ==="
+mkdir -p .github/workflows
+
+echo "=== Zapisywanie zoptymalizowanego pliku android.yml ==="
+cat << 'YAML' > .github/workflows/android.yml
+name: Android CI
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up JDK 21
+      uses: actions/setup-java@v4
+      with:
+        java-version: '21'
+        distribution: 'temurin'
+
+    - name: Setup Gradle
+      uses: gradle/actions/setup-gradle@v3
+      with:
+        gradle-version: '8.5'
+
+    - name: Generate debug keystore
+      run: keytool -genkey -v -keystore debug.keystore -alias androiddebugkey -keyalg RSA -keysize 2048 -validity 10000 -storepass android -keypass android -dname "CN=Android Debug,O=Android,C=US"
+
+    - name: Build with Gradle
+      run: gradle assembleDebug --no-daemon
+
+    - name: Upload APK
+      uses: actions/upload-artifact@v4
+      with:
+        name: app-debug
+        path: app/build/outputs/apk/debug/app-debug.apk
+YAML
+
+echo "=== Dodawanie wszystkich plików do Gita ==="
+git add .
+
+echo "=== Tworzenie commita ==="
+git commit -m "Naprawa CI: dodanie kodu aplikacji i konfiguracja globalnego Gradle"
+
+echo "=== Wysyłanie zmian na GitHub ==="
+git push origin main
+
+echo "=== Gotowe! Projekt został pomyślnie zaktualizowany. ==="

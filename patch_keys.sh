@@ -1,0 +1,2 @@
+sed -i 's/import androidx.compose.ui.text.font.FontWeight/import androidx.compose.ui.text.font.FontWeight\nimport androidx.compose.ui.platform.LocalClipboardManager\nimport androidx.compose.ui.text.AnnotatedString/g' app/src/main/java/com/example/ui/screens/AccessKeysScreen.kt
+sed -i 's/modifier = Modifier.padding(horizontal = 14.dp, vertical = 10.dp),/modifier = Modifier.padding(horizontal = 14.dp, vertical = 10.dp).clickable { clipboardManager.setText(AnnotatedString(userKey.code)) },/g' app/src/main/java/com/example/ui/screens/AccessKeysScreen.kt

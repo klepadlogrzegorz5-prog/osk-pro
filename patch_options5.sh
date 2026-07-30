@@ -1,0 +1,3 @@
+sed -i 's/val parsedVal = priceInput.toDoubleOrNull() ?: 0.0/val parsedCourse = priceCourseInput.toDoubleOrNull() ?: 0.0\n                        val parsedHour = priceHourInput.toDoubleOrNull() ?: 0.0/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt
+sed -i 's/onSavePrice(selectedCat, parsedVal, priceType, isActive)/onSavePrice(selectedCat, parsedCourse, parsedHour, isActive)/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt
+sed -i 's/priceInput = ""/priceCourseInput = ""\n                        priceHourInput = ""/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt

@@ -1,0 +1,1 @@
+sed -i 's/\.padding(bottom = 16\.dp)/\.padding(bottom = 16\.dp)\n                    .clip(RoundedCornerShape(24.dp))\n                    .clickable { showCreatorDialog = true }/g' app/src/main/java/com/example/ui/screens/RoleSelectionScreen.kt

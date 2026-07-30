@@ -1,0 +1,1 @@
+sed -i '368i\        if (showCreatorDialog) {\n            com.example.ui.components.CreatorInfoDialog(onDismiss = { showCreatorDialog = false })\n        }' app/src/main/java/com/example/ui/screens/RoleSelectionScreen.kt
