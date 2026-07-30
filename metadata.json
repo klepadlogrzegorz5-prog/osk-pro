@@ -1,6 +1,8 @@
 {
-  "name": "proOsk",
-  "description": "Menadżer szkoły nauki jazdy proOsk łączący właściciela, instruktorów i kursantów.",
+  "name": "Jedzieny",
+  "description": "Professional driving school management featuring real-time Firebase sync, role-based access, cinematic UI, and zero-mock-data production readiness.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

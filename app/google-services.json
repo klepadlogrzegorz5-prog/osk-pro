@@ -1,22 +1,21 @@
 {
   "project_info": {
-    "project_number": "260588727560",
-    "firebase_url": "https://oskpro-default-rtdb.europe-west1.firebasedatabase.app",
-    "project_id": "oskpro",
-    "storage_bucket": "oskpro.firebasestorage.app"
+    "project_number": "773917915721",
+    "project_id": "oskpr0",
+    "storage_bucket": "oskpr0.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:260588727560:android:fefd212d4301c64eb310bd",
+        "mobilesdk_app_id": "1:773917915721:android:afdf2568b1f7ddbea91d98",
         "android_client_info": {
-          "package_name": "pl.proosk.app"
+          "package_name": "com.company.apposk"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBV2ZLx_dVJRkiQzzP5hk7J66aoX4uWNKA"
+          "current_key": "AIzaSyBdP-F8UGVcBRU5KO1v_RSytCteLPLq1gI"
         }
       ],
       "services": {

@@ -1,5 +1,0 @@
-sed -i 's/onSavePrice: (category: String, price: Double, type: String, active: Boolean) -> Unit,/onSavePrice: (category: String, coursePrice: Double, hourPrice: Double, active: Boolean) -> Unit,/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt
-sed -i 's/var priceInput by remember { mutableStateOf("3200") }/var priceCourseInput by remember { mutableStateOf("3200") }\n    var priceHourInput by remember { mutableStateOf("100") }/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt
-sed -i 's/var priceType by remember { mutableStateOf("COURSE") } \/\/ COURSE or HOUR//g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt
-sed -i 's/onSavePrice = { cat, valPln, typeStr, active ->/onSavePrice = { cat, coursePln, hourPln, active ->/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt
-sed -i 's/viewModel.addCategoryPrice(cat, valPln, typeStr, active)/viewModel.addCategoryPrice(cat, coursePln, hourPln, active)/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt

@@ -1,4 +1,0 @@
-sed -i 's/repository.insertCategoryPrice(CategoryPriceEntity("Kat. A", 2800.0, "COURSE", true))/repository.insertCategoryPrice(CategoryPriceEntity("Kat. A", 2800.0, 100.0, true))/g' app/src/main/java/com/example/ui/viewmodel/OskViewModel.kt
-sed -i 's/repository.insertCategoryPrice(CategoryPriceEntity("Kat. B", 3200.0, "COURSE", true))/repository.insertCategoryPrice(CategoryPriceEntity("Kat. B", 3200.0, 110.0, true))/g' app/src/main/java/com/example/ui/viewmodel/OskViewModel.kt
-sed -i 's/repository.insertCategoryPrice(CategoryPriceEntity("Kat. C", 4500.0, "COURSE", true))/repository.insertCategoryPrice(CategoryPriceEntity("Kat. C", 4500.0, 150.0, true))/g' app/src/main/java/com/example/ui/viewmodel/OskViewModel.kt
-sed -i 's/repository.insertCategoryPrice(CategoryPriceEntity("Kat. D", 5200.0, "COURSE", false))/repository.insertCategoryPrice(CategoryPriceEntity("Kat. D", 5200.0, 200.0, false))/g' app/src/main/java/com/example/ui/viewmodel/OskViewModel.kt

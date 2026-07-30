@@ -1,3 +1,0 @@
-sed -i 's/onClick = { \/\* TODO: schedule settings \*\/ }/onClick = { android.widget.Toast.makeText(context, "Zapisano preferencje harmonogramu", android.widget.Toast.LENGTH_SHORT).show() }/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt
-sed -i 's/onClick = { \/\* TODO: notifications \*\/ }/onClick = { android.widget.Toast.makeText(context, "Powiadomienia zostały włączone", android.widget.Toast.LENGTH_SHORT).show() }/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt
-sed -i 's/onClick = { \/\* TODO: default vehicle \*\/ }/onClick = { android.widget.Toast.makeText(context, "Przypisano domyślny pojazd", android.widget.Toast.LENGTH_SHORT).show() }/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt

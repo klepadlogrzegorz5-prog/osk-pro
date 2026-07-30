@@ -1,1 +1,0 @@
-sed -i 's/validateKey = { key -> viewModel.validateUserKey(key, pendingRole!!) }/validateKey = { name, key -> viewModel.validateUserKey(name, key, pendingRole!!) }/g' app/src/main/java/com/example/MainActivity.kt

@@ -16,9 +16,3 @@
 local.properties
 .env
 debug.keystore
-
-# Additional ignores for safe GitHub compilation
-*.keystore
-go/
-app/build/
-.build-outputs/

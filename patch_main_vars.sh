@@ -1,1 +1,0 @@
-sed -i 's/val drawerState = rememberDrawerState/val savedPin by viewModel.savedPin.collectAsStateWithLifecycle()\n    var showPinAuth by remember(savedPin) { mutableStateOf(savedPin != null) }\n\n    val drawerState = rememberDrawerState/g' app/src/main/java/com/example/MainActivity.kt

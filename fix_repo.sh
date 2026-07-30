@@ -1,1 +1,0 @@
-sed -i 's/\/\/ Category prices/\/\/ Category prices\n    val categoryPrices: kotlinx.coroutines.flow.Flow<List<CategoryPriceEntity>> = database.categoryPriceDao().getAllCategoryPrices()/g' app/src/main/java/com/example/data/repository/OskRepository.kt

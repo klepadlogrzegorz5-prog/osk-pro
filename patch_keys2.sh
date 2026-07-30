@@ -1,1 +1,0 @@
-sed -i 's/private fun UserKeyCard(/private fun UserKeyCard(\n    userKey: UserKeyEntity,\n    onDelete: () -> Unit\n) {\n    val clipboardManager = LocalClipboardManager.current\n\n    Card(/g' app/src/main/java/com/example/ui/screens/AccessKeysScreen.kt

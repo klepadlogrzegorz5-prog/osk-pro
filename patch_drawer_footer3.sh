@@ -1,1 +1,0 @@
-sed -i '361,389c\            Text(\n                text = "OSK-PRO v1.0 • Cyberpunk Edition",\n                fontSize = 10.sp,\n                fontWeight = FontWeight.Bold,\n                color = Color.White.copy(alpha = 0.4f),\n                modifier = Modifier.align(Alignment.CenterHorizontally)\n            )' app/src/main/java/com/example/ui/components/AppDrawer.kt

@@ -1,1 +1,0 @@
-sed -i 's/var priceInput by remember { mutableStateOf("3200") }/var priceCourseInput by remember { mutableStateOf("3200") }\n    var priceHourInput by remember { mutableStateOf("100") }/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt

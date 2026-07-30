@@ -1,1 +1,0 @@
-sed -i 's/    val instructorsList = remember(userKeys) {/    val context = androidx.compose.ui.platform.LocalContext.current\n    val instructorsList = remember(userKeys) {/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt

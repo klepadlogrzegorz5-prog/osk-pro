@@ -1,1 +1,0 @@
-sed -i 's/var activeDialogType by remember { mutableStateOf<ConfigDialogType?>(null) }/var activeDialogType by remember { mutableStateOf<ConfigDialogType?>(null) }\n    var showClearSimulationConfirm by remember { mutableStateOf(false) }/g' app/src/main/java/com/example/ui/screens/OptionsScreen.kt

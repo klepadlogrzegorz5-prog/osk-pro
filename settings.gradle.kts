@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "proOsk"
+rootProject.name = "OSK-PRO"
 
 include(":app")
