@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/bdd03534-a8d5-4d18-8bd5-f17b75e94336
+View your app in AI Studio: https://ai.studio/apps/8d9ee7ea-fdc8-4499-b2d4-5cbe5c93f667
 
 ## Run Locally
 
@@ -20,3 +20,4 @@ View your app in AI Studio: https://ai.studio/apps/bdd03534-a8d5-4d18-8bd5-f17b7
 5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
 6. Run the app on an emulator or physical device
 7. If you have already published your app in AI Studio, please [request upload key reset](https://support.google.com/googleplay/android-developer/answer/9842756#zippy=%2Crequest-an-upload-key-reset) in Google Play Console.
+# osk-pro
